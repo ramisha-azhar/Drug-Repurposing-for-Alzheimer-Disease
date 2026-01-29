@@ -1,0 +1,417 @@
+"antihemophilic factor (recombinant), pegylated"
+abaloparatide
+abiraterone
+aceclofenac
+acemetacin
+acetaminophen
+acetylcholine
+acetylsalicylic acid
+aclidinium
+afatinib
+albutrepenonacog alfa
+alclofenac
+alendronic acid
+alfacalcidol
+alglucosidase alfa
+alogliptin
+alpelisib
+alpha-linolenic acid
+alprostadil
+aluminium
+aluminium phosphate
+aluminum acetate
+ambenonium
+ambrisentan
+amcinonide
+amlexanox
+amodiaquine
+anakinra
+ancrod
+anisotropine methylbromide
+antipyrine
+antithrombin alfa
+antithrombin iii human
+antrafenine
+apixaban
+aprotinin
+ardeparin
+argatroban
+arsenic trioxide
+atropine
+auranofin
+azacitidine
+bemiparin
+bendazac
+bethanechol
+betrixaban
+bexarotene
+bimatoprost
+bioallethrin
+biperiden
+bivalirudin
+bosentan
+brolucizumab
+bromfenac
+brompheniramine
+buclizine
+budesonide
+bufexamac
+buprenorphine
+butamben
+cabozantinib
+calcifediol
+calcipotriol
+cangrelor
+cantharidin
+capecitabine
+caplacizumab
+carbamoylcholine
+carboxymethylcellulose
+carmustine
+carprofen
+castor oil
+cenegermin
+cerivastatin
+cerliponase alfa
+cetrorelix
+cevimeline
+chenodeoxycholic acid
+chlorhexidine
+chlormezanone
+chloroquine
+chlorpropamide
+cholecalciferol
+choline
+choline magnesium trisalicylate
+choline salicylate
+choriogonadotropin alfa
+chorionic gonadotropin (human)
+ciprofibrate
+clidinium
+clofibrate
+clopidogrel
+clotrimazole
+cobimetinib
+coccidioides immitis spherule
+conestat alfa
+corifollitropin alfa
+corticorelin ovine triflutate
+crizanlizumab
+cromoglicic acid
+cryptenamine
+cyanocobalamin
+cyclopentolate
+cyclophosphamide
+cycrimine
+cysteamine
+cysteine
+dabigatran etexilate
+dalteparin
+danaparoid
+danazol
+darifenacin
+dasatinib
+decamethonium
+demecarium
+denosumab
+deoxycholic acid
+desoxycorticosterone acetate
+dexibuprofen
+dexketoprofen
+diclofenac
+dicyclomine
+didanosine
+diethylcarbamazine
+diflunisal
+dihydrotachysterol
+dinoprost tromethamine
+dinoprostone
+diosmin
+diphenidol
+dipivefrin
+dipyrithione
+disopyramide
+disulfiram
+doxacurium
+doxapram
+doxercalciferol
+doxorubicin
+drospirenone
+echothiophate
+econazole
+edoxaban
+edrophonium
+efmoroctocog alfa
+enoxaparin
+ephedrine
+eplerenone
+epoprostenol
+erdafitinib
+ergocalciferol
+erlotinib
+estradiol
+estradiol acetate
+estradiol benzoate
+estradiol cypionate
+estradiol dienanthate
+estradiol valerate
+etodolac
+etoricoxib
+everolimus
+felodipine
+fenofibrate
+fenofibric acid
+fenoprofen
+fesoterodine
+flavoxate
+floxuridine
+flucytosine
+fludrocortisone
+flufenamic acid
+fluorouracil
+fluoxetine
+flurbiprofen
+flutamide
+fluticasone
+fluticasone furoate
+fluticasone propionate
+fluvastatin
+follitropin
+fondaparinux
+galantamine
+gallamine triethiodide
+gallium nitrate
+gemeprost
+gemfibrozil
+gilteritinib
+glatiramer
+gliclazide
+glimepiride
+gliquidone
+gluconolactone
+glutathione
+glutathione disulfide
+glycerin
+glycol salicylate
+glycopyrronium
+glymidine
+goserelin
+heparin
+hexachlorophene
+hexafluronium
+hexocyclium
+homatropine
+homatropine methylbromide
+human c1-esterase inhibitor
+huperzine a
+hydrocortisone
+hydroxocobalamin
+hyoscyamine
+ibalizumab
+ibandronate
+ibuprofen
+ibutilide
+icosapent
+ifosfamide
+indomethacin
+insulin human
+insulin pork
+ipratropium
+isoflurophate
+isotretinoin
+ixekizumab
+keyhole limpet hemocyanin
+latanoprost
+latanoprostene bunod
+lauric acid
+leflunomide
+lemborexant
+lenalidomide
+lenograstim
+lepirudin
+linagliptin
+liothyronine
+liotrix
+lipegfilgrastim
+lofexidine
+lornoxicam
+loxoprofen
+lumiracoxib
+lutropin alfa
+lyme disease vaccine (recombinant ospa)
+macitentan
+malathion
+manidipine
+maraviroc
+mecamylamine
+mecasermin rinfabate
+meclofenamic acid
+mefenamic acid
+meloxicam
+menotropins
+menthyl salicylate
+mepenzolate
+metamizole
+methscopolamine bromide
+methylprednisolone
+metixene
+metocurine
+metreleptin
+mexiletine
+mifamurtide
+misoprostol
+mivacurium
+nabumetone
+nadh
+nadroparin
+naloxone
+naproxen
+nateglinide
+neostigmine
+nepafenac
+nicardipine
+nicotinamide
+nimesulide
+nimodipine
+nisoldipine
+obeticholic acid
+obinutuzumab
+ocrelizumab
+ofatumumab
+olaratumab
+oleic acid
+omega-3-acid ethyl esters
+oxaprozin
+oxiconazole
+oxybutynin
+oxymetholone
+oxyphencyclimine
+oxyphenonium
+pamidronic acid
+pancuronium
+papain
+parecoxib
+paricalcitol
+pazopanib
+pegaptanib
+pegvisomant
+penbutolol
+pentolinium
+pentosan polysulfate
+phenyl salicylate
+phenylbutazone
+phylloquinone
+physostigmine
+pidolic acid
+pilocarpine
+pioglitazone
+pirenzepine
+piroxicam
+pomalidomide
+pralidoxime
+prasugrel
+pravastatin
+procyclidine
+proflavine
+progesterone
+propantheline
+propiverine
+propylene glycol
+protamine sulfate
+protein s human
+pyrantel
+pyrethrum extract
+pyridostigmine
+ramucirumab
+ranibizumab
+rapacuronium
+repaglinide
+revefenacin
+ribavirin
+rifampicin
+rifaximin
+rilonacept
+rilpivirine
+risedronic acid
+ritonavir
+rituximab
+rivaroxaban
+rivastigmine
+rocuronium
+rofecoxib
+rosiglitazone
+sacubitril
+safinamide
+salicylic acid
+salsalate
+saxagliptin
+scopolamine
+secukinumab
+selexipag
+sermorelin
+simoctocog alfa
+sitagliptin
+sitaxentan
+somatrem
+soybean oil
+spironolactone
+succinylcholine
+sulfamethoxazole
+sulfasalazine
+sulindac
+sulodexide
+suprofen
+susoctocog alfa
+suvorexant
+tacrine
+tafluprost
+tamoxifen
+taurocholic acid
+technetium tc-99m tilmanocept
+tegafur
+temsirolimus
+tenoxicam
+terfenadine
+teriparatide
+tesamorelin
+testosterone
+testosterone cypionate
+testosterone enanthate
+testosterone undecanoate
+thalidomide
+thiamylal
+thonzylamine
+thrombomodulin alfa
+tiaprofenic acid
+ticagrelor
+ticlopidine
+tinzaparin
+tiotropium
+tolazamide
+tolfenamic acid
+tolmetin
+tolterodine
+trametinib
+travoprost
+treprostinil
+trifarotene
+trifluridine
+trihexyphenidyl
+trimebutine
+trolamine salicylate
+troleandomycin
+tropicamide
+trospium
+tuberculin purified protein derivative
+tubocurarine
+tyrothricin
+ubidecarenone
+umeclidinium
+urofollitropin
+ustekinumab
+valdecoxib
+vandetanib
+vildagliptin
+vitamin d
+ximelagatran
+zaleplon
