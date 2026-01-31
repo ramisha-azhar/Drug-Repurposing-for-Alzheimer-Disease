@@ -1,0 +1,1765 @@
+TTD_association	drug	proximity	pval	similarity	adjusted_similarity
+Postmenopausal osteoporosis 	abaloparatide	0	0.02169323	1	0.999498689431439
+Angina pectoris 	abciximab	1.153846154	3.66e-20	0.7115384615	0.859658629099229
+Prostate cancer 	abiraterone	0	0.001163293	1	0.999498689431439
+Alcohol dependence 	acamprosate	1.761904762	0.009237845	0.5595238095	0.529605632186958
+Alcohol dependence 	acamprosate	1.476190476	3.4e-07	0.630952381	0.216147553293224
+Alcohol dependence 	acamprosate	1.047619048	0.038478806	0.738095238	0.446003656694172
+Hypertension 	acebutolol	1	0.008929131	0.75	0.475573630947114
+Hypertension 	acebutolol	0	0.001507984	1	0.916996180685167
+Hypertension 	acebutolol	1.5	0.023262262	0.625	0.661048189545015
+Hypertension 	acebutolol	0.5	0.012780076	0.875	0.759915570510543
+Inflammation 	aceclofenac	0	0.001143402	1	0.999498689431439
+Thrombosis 	acenocoumarol	0	0.008929131	1	0.916996180685167
+Thrombosis 	acenocoumarol	1	3.26e-07	0.75	0.910611085269981
+Pain 	acetaminophen	0.5	0.014927685	0.875	0.996659662454039
+Glaucoma/ocular hypertension 	acetazolamide	1.571428571	0.021737938	0.60714285725	0.701928415156842
+Diabetic complication 	acetohexamide	1	0.005026772	0.75	0.945098078077383
+Bipolar disorder 	acetophenazine	0	0.000437963	1	0.916996180685167
+Bipolar disorder 	acetophenazine	1	0.006073068	0.75	0.475573630947114
+Bipolar disorder 	acetophenazine	0.333333333	1.59e-13	0.91666666675	0.993592688003182
+Cataract 	acetylcholine	0.333333333	7.53e-05	0.91666666675	0.998223773135608
+Liver disease 	acetylcysteine	0.7	0.045105179	0.825	0.657509813495278
+Liver disease 	acetylcysteine	1.1	4.42e-05	0.725	0.413920064347205
+Liver disease 	acetylcysteine	1.3	0.003282675	0.675	0.846976751536011
+Psoriasis vulgaris 	acitretin	1.142857143	0.046743634	0.71428571425	0.388190164697243
+Psoriasis vulgaris 	acitretin	0.142857143	1.7e-07	0.96428571425	0.999137734339707
+Chronic obstructive pulmonary disease 	aclidinium	0.8	0.038650075	0.8	0.989632625584422
+Allergic rhinitis 	acrivastine	1	0.000370198	0.75	0.945098078077383
+Rheumatoid arthritis 	adalimumab	0	0.023548759	1	0.998215649602825
+Rheumatoid arthritis 	adalimumab	0	0.034338783	1	0.916996180685167
+Acne vulgaris 	adapalene	0	1.34e-09	1	0.999498689431439
+Acne vulgaris 	adapalene	1.142857143	0.041500865	0.71428571425	0.388190164697243
+Cerebrovascular ischaemia 	ademetionine	0.75	0.021442223	0.8125	0.628833714233804
+Cerebrovascular ischaemia 	ademetionine	1.875	0.005916888	0.53125	0.360799904415132
+Cerebrovascular ischaemia 	ademetionine	1.5	0.012605496	0.625	0.206233008902532
+Paroxysmal supraventricular tachycardia 	adenosine	1.5	0.002645736	0.625	0.735272017343177
+Worm infection 	albendazole	1.5	0.002325987	0.625	0.661048189545015
+Allergic conjunctivitis 	alcaftadine	1	0.003059102	0.75	0.945098078077383
+Rheumatoid arthritis 	alclofenac	0	0.011309699	1	0.999498689431439
+Pain 	alefacept	1	1.18e-22	0.75	0.910611085269981
+Multiple sclerosis 	alemtuzumab	1.1	4.26e-19	0.725	0.879794875902457
+Chronic lymphocytic leukaemia 	alemtuzumab	1.1	4.26e-19	0.725	0.879794875902457
+Benign prostatic hyperplasia 	alfuzosin	1	6.85e-06	0.75	0.945098078077383
+Pompe disease 	alglucosidase alfa	0	0.003304639	1	0.999498689431439
+Hypertension 	aliskiren	1	0.001418066	0.75	0.945098078077383
+Hypertension 	aliskiren	0	0.027471422	1	0.916996180685167
+Kaposi sarcoma 	alitretinoin	0.222222222	2.21e-07	0.9444444445	0.998834670243607
+Kaposi sarcoma 	alitretinoin	1.222222222	0.010640049	0.6944444445	0.342237525457008
+Hyperuricaemia 	allopurinol	1	0.002404635	0.75	0.939653140975545
+Type-2 diabetes 	alogliptin	0	0.000143541	1	0.999498689431439
+Erectile dysfunction 	alprostadil	0.666666667	0.01453463	0.83333333325	0.993726881956618
+Diabetic foot ulcer 	alprostadil	0.666666667	0.01453463	0.83333333325	0.993726881956618
+Pulmonary embolism 	alteplase	0.25	0.000955059	0.9375	0.855352842489066
+Pulmonary embolism 	alteplase	0.75	0.00044094	0.8125	0.976247630772842
+Hyperhidrosis 	aluminium	0.25	0.003484761	0.9375	0.998705144399657
+Influenza A virus infection 	amantadine	1.4	0.000284584	0.65	0.250155464708731
+Influenza A virus infection 	amantadine	0	1.15e-06	1	0.916996180685167
+Influenza A virus infection 	amantadine	1	7.63e-11	0.75	0.945098078077383
+Myasthenia gravis 	ambenonium	0	0.003059102	1	0.999498689431439
+Pulmonary arterial hypertension 	ambrisentan	0	0.000361586	1	0.999498689431439
+Inflammation 	amcinonide	0.5	0.008929131	0.875	0.996659662454039
+Congestive heart failure 	amiloride	1.625	0.04970131	0.59375	0.159723968896025
+Congestive heart failure 	amiloride	1	7.79e-07	0.75	0.945098078077383
+Postoperative hemorrhage 	aminocaproic acid	1	0.021510304	0.75	0.945098078077383
+Postoperative hemorrhage 	aminocaproic acid	0	0.000149427	1	0.916996180685167
+Bleeding disorder 	aminocaproic acid	1	0.021510304	0.75	0.945098078077383
+Bleeding disorder 	aminocaproic acid	0	0.000149427	1	0.916996180685167
+Cushing disease 	aminoglutethimide	0.5	0.035963349	0.875	0.759915570510543
+Cushing disease 	aminoglutethimide	1	0.000141918	0.75	0.945098078077383
+Pulmonary and extrapulmonary tuberculosis 	aminosalicylic acid	0	0.001028702	1	0.916996180685167
+Pulmonary and extrapulmonary tuberculosis 	aminosalicylic acid	1	0.007449774	0.75	0.939653140975545
+Inflammatory bowel disease 	aminosalicylic acid	0	0.001028702	1	0.916996180685167
+Inflammatory bowel disease 	aminosalicylic acid	1	0.007449774	0.75	0.939653140975545
+Tachyarrhythmias 	amiodarone	0.571428571	0.003297837	0.85714285725	0.725845478306619
+Tachyarrhythmias 	amiodarone	1.142857143	0.007021382	0.71428571425	0.912809330911691
+Schizophrenia 	amisulpride	0.75	0.000104512	0.8125	0.628833714233804
+Schizophrenia 	amisulpride	0	1.99e-07	1	0.916996180685167
+Schizophrenia 	amisulpride	0.75	0.000179908	0.8125	0.97359222316186
+Depression 	amitriptyline	1.71875	0.000919757	0.5703125	0.566441509984543
+Depression 	amitriptyline	0.78125	6.01e-05	0.8046875	0.610423252147882
+Depression 	amitriptyline	1.59375	7.71e-05	0.6015625	0.17049002908984
+Respiratory tract inflammation 	amlexanox	0.5	0.013642579	0.875	0.996659662454039
+Hypertension 	amlodipine	1.571428571	0.025593104	0.60714285725	0.178527656590918
+Hypertension 	amlodipine	0.714285714	0.012123572	0.8214285715	0.992492293900605
+Insomnia 	amobarbital	2.1	0.025202941	0.475	0.211515959642659
+Insomnia 	amobarbital	1.6	0.00635841	0.6	0.168291655175903
+Malaria 	amodiaquine	0	0.021971111	1	0.999498689431439
+Major depressive disorder 	amoxapine	1.707317073	1.93e-06	0.57317073175	0.576095375590962
+Major depressive disorder 	amoxapine	0.780487805	1.25e-08	0.80487804875	0.610876294390655
+Major depressive disorder 	amoxapine	1.56097561	2.94e-07	0.6097560975	0.182392364874642
+Attention deficit hyperactivity disorder 	amphetamine	0.411764706	3.51e-08	0.8970588235	0.797832952548616
+Attention deficit hyperactivity disorder 	amphetamine	1.411764706	1.18e-07	0.6470588235	0.790136605766855
+Attention deficit hyperactivity disorder 	amphetamine	1.058823529	4.66e-19	0.73529411775	0.439093429233738
+Acute lymphoblastic leukaemia 	amsacrine	1	0.012741649	0.75	0.945098078077383
+Acute lymphoblastic leukaemia 	amsacrine	1.75	0.037013208	0.5625	0.12209024541556
+Rheumatoid arthritis 	anakinra	0	0.005026772	1	0.999498689431439
+Breast cancer 	anastrozole	1	0.000509398	0.75	0.945098078077383
+Breast cancer 	anastrozole	0	0.007713034	1	0.916996180685167
+Blood forming organ disorder 	ancrod	0	0.038314193	1	0.999498689431439
+Increase blood pressure 	angiotensin ii	0	0.001099902	1	0.998215649602825
+Increase blood pressure 	angiotensin ii	1	0.034338783	0.75	0.475573630947114
+Increase blood pressure 	angiotensin ii	0	0.001418066	1	0.916996180685167
+Coagulation defect 	anisindione	1	0.008929131	0.75	0.945098078077383
+Peptic ulcer 	anisotropine methylbromide	0.333333333	0.005346886	0.91666666675	0.998223773135608
+Acute coronary syndrome 	anistreplase	0.25	0.000202811	0.9375	0.855352842489066
+Acute coronary syndrome 	anistreplase	0.75	0.00422045	0.8125	0.976247630772842
+Nasal congestion 	antazoline	1	0.000370198	0.75	0.945098078077383
+Bleeding disorder 	anti-inhibitor coagulant complex	1	3.41e-06	0.75	0.945098078077383
+Bleeding disorder 	anti-inhibitor coagulant complex	0.125	9.93e-11	0.96875	0.889899669963022
+Thrombin deficiency 	antithrombin alfa	0	4.96e-05	1	0.999498689431439
+Thrombosis 	apixaban	0	0.000697973	1	0.999498689431439
+Parkinson disease 	apomorphine	1.4	1.25e-09	0.65	0.250155464708731
+Parkinson disease 	apomorphine	1.466666667	3.13e-08	0.63333333325	0.757029462794277
+Parkinson disease 	apomorphine	0.4	8.6e-07	0.9	0.802535407328769
+Intra ocular pressure reduction 	apraclonidine	1.333333333	0.005845904	0.66666666675	0.831480882514626
+Intra ocular pressure reduction 	apraclonidine	0	2.04e-05	1	0.916996180685167
+Bleeding disorder 	aprotinin	0.5	0.009406676	0.875	0.996659662454039
+Coronary artery disease 	arbutamine	0	0.000435574	1	0.916996180685167
+Coronary artery disease 	arbutamine	0.333333333	2.03e-07	0.91666666675	0.827624363017613
+Coronary artery disease 	arbutamine	1.666666667	0.030953944	0.58333333325	0.529196411593648
+Coronary artery disease 	arbutamine	1.333333333	0.022186029	0.66666666675	0.282698225791934
+Deep vein thrombosis 	ardeparin	0.5	0.049300157	0.875	0.996659662454039
+Chronic obstructive pulmonary disease 	arformoterol	1	0.006830513	0.75	0.910611085269981
+Asthma 	arformoterol	1	0.006830513	0.75	0.910611085269981
+Thrombosis 	argatroban	0	0.01684862	1	0.999498689431439
+Schizophrenia 	aripiprazole	0.604651163	6.51e-13	0.84883720925	0.709011660557655
+Schizophrenia 	aripiprazole	1.348837209	4.91e-15	0.66279069775	0.274905151387486
+Schizophrenia 	aripiprazole	1.581395349	4.26e-08	0.60465116275	0.677194520378639
+Major depressive disorder 	aripiprazole	0.604651163	6.51e-13	0.84883720925	0.709011660557655
+Major depressive disorder 	aripiprazole	1.348837209	4.91e-15	0.66279069775	0.274905151387486
+Major depressive disorder 	aripiprazole	1.581395349	4.26e-08	0.60465116275	0.677194520378639
+Bipolar disorder 	aripiprazole	0.604651163	6.51e-13	0.84883720925	0.709011660557655
+Bipolar disorder 	aripiprazole	1.348837209	4.91e-15	0.66279069775	0.274905151387486
+Bipolar disorder 	aripiprazole	1.581395349	4.26e-08	0.60465116275	0.677194520378639
+Pediatric cancer 	armodafinil	0	6.26e-07	1	0.997960746870246
+Pediatric cancer 	armodafinil	0	0.008116575	1	0.916996180685167
+Pediatric cancer 	armodafinil	0	6.91e-05	1	0.916996180685167
+Acute lymphoblastic leukaemia 	arsenic trioxide	0.4	0.022156469	0.9	0.997713004352496
+Schizophrenia 	asenapine	0.368421053	2.68e-09	0.90789473675	0.814748339528598
+Schizophrenia 	asenapine	1.315789474	4.78e-06	0.6710526315	0.291676210446684
+Schizophrenia 	asenapine	1.473684211	7.85e-06	0.63157894725	0.752551582709188
+Genetic disease 	asfotase alfa	1	0.008929131	0.75	0.945098078077383
+Hypertension 	atenolol	1	0.008828648	0.75	0.939653140975545
+Hypertension 	atenolol	0	0.002858644	1	0.916996180685167
+Hypertension 	atenolol	0.5	0.017953568	0.875	0.759915570510543
+Solid tumour/cancer 	atezolizumab	1	1.87e-06	0.75	0.939653140975545
+Melanoma 	atezolizumab	1	1.87e-06	0.75	0.939653140975545
+Bronchioalveolar carcinoma 	atezolizumab	1	1.87e-06	0.75	0.939653140975545
+Ulcer 	atezolizumab	1	1.87e-06	0.75	0.939653140975545
+Attention deficit hyperactivity disorder 	atomoxetine	1	2.32e-07	0.75	0.475573630947114
+Attention deficit hyperactivity disorder 	atomoxetine	0.636363636	0.015477541	0.840909091	0.69238807478022
+Attention deficit hyperactivity disorder 	atomoxetine	1.181818182	2.67e-08	0.7045454545	0.892692362526056
+Cardiovascular disease 	atorvastatin	0.4	5.62e-05	0.9	0.802535407328769
+Cardiovascular disease 	atorvastatin	1.2	0.038922493	0.7	0.895622553226265
+Poison intoxication 	atropine	0.571428571	0.00141293	0.85714285725	0.995622925786853
+Organophosphate poisoning 	atropine	0.571428571	0.00141293	0.85714285725	0.995622925786853
+Inflammatory arthritis 	auranofin	0.5	0.038314193	0.875	0.996659662454039
+Solid tumour/cancer 	avelumab	1	9.74e-05	0.75	0.939653140975545
+Merkel cell carcinoma 	avelumab	1	9.74e-05	0.75	0.939653140975545
+Mantle cell lymphoma 	axicabtagene ciloleucel	1	0.02681328	0.75	0.939653140975545
+Diffuse large B-cell lymphoma 	axicabtagene ciloleucel	1	0.02681328	0.75	0.939653140975545
+Follicular lymphoma 	axicabtagene ciloleucel	1	0.02681328	0.75	0.939653140975545
+Non-hodgkin lymphoma 	axicabtagene ciloleucel	1	0.02681328	0.75	0.939653140975545
+Acute lymphoblastic leukaemia 	axicabtagene ciloleucel	1	0.02681328	0.75	0.939653140975545
+Primary mediastinal B-cell lymphoma 	axicabtagene ciloleucel	1	0.02681328	0.75	0.939653140975545
+Renal cell carcinoma 	axitinib	1	0.018576155	0.75	0.939653140975545
+Myelodysplastic syndrome 	azacitidine	0	0.013955718	1	0.999498689431439
+Allergic rhinitis 	azatadine	1	0.000370198	0.75	0.945098078077383
+Organ transplant rejection 	azathioprine	1.5	0.019392058	0.625	0.661048189545015
+Allergic conjunctivitis 	azelastine	1.5	0.010388075	0.625	0.751224390915506
+Skin infection 	bacitracin	0	0.000423244	1	0.916996180685167
+Skin infection 	bacitracin	1.5	0.008197536	0.625	0.661048189545015
+Inflammatory bowel disease 	balsalazide	0	1.61e-06	1	0.916996180685167
+Inflammatory bowel disease 	balsalazide	1.25	0.008726472	0.6875	0.868009167412631
+Organ transplant rejection 	basiliximab	1.083333333	6.37e-25	0.72916666675	0.88550167441359
+Diabetic complication 	becaplermin	1.666666667	0.039517696	0.58333333325	0.529196411593648
+Diabetic complication 	becaplermin	0	0.000334465	1	0.916996180685167
+Hypertension 	benazepril	1	0.001418066	0.75	0.910611085269981
+Hypertension 	benazepril	0	9.27e-10	1	0.916996180685167
+Hypertension 	benazepril	0	0.025214846	1	0.916996180685167
+Hypertension 	benazepril	1	0.013472051	0.75	0.475573630947114
+High blood pressure 	bendroflumethiazide	1.2	4.77e-05	0.7	0.895622553226265
+High blood pressure 	bendroflumethiazide	0.6	0.007855241	0.85	0.711404818907248
+Chronic obstructive pulmonary disease 	benralizumab	1.5	0.00463038	0.625	0.661048189545015
+Chronic obstructive pulmonary disease 	benralizumab	1.5	0.042410927	0.625	0.206233008902532
+Asthma 	benralizumab	1.5	0.00463038	0.625	0.661048189545015
+Asthma 	benralizumab	1.5	0.042410927	0.625	0.206233008902532
+Cough 	benzonatate	1	0.038314193	0.75	0.939653140975545
+Obesity 	benzphetamine	1	2.3e-07	0.75	0.939653140975545
+Obesity 	benzphetamine	0.25	0.001448752	0.9375	0.855352842489066
+Obesity 	benzphetamine	1	3.73e-05	0.75	0.475573630947114
+High blood pressure 	benzthiazide	1.5	0.027793991	0.625	0.751224390915506
+High blood pressure 	benzthiazide	0.666666667	0.026411615	0.83333333325	0.676022002084612
+Allergic rhinitis 	bepotastine	1	0.001385596	0.75	0.945098078077383
+Chronic/stable angina 	bepridil	0.8	0.023223232	0.8	0.599220125721511
+Chronic/stable angina 	bepridil	1.5	0.025516874	0.625	0.735272017343177
+Hypertension 	betaxolol	0	0.002263869	1	0.916996180685167
+Hypertension 	betaxolol	0.5	0.012692636	0.875	0.759915570510543
+Hypertension 	betaxolol	1	0.023133954	0.75	0.939653140975545
+Urinary retention 	bethanechol	0.5	0.010191535	0.875	0.996659662454039
+Heart arrhythmia 	bethanidine	1.142857143	4.14e-06	0.71428571425	0.388190164697243
+Heart arrhythmia 	bethanidine	1.428571429	0.001173293	0.64285714275	0.780366600171195
+Heart arrhythmia 	bethanidine	0.285714286	0.000101054	0.9285714285	0.843951868427611
+Venous thromboembolism 	betrixaban	0	0.018735328	1	0.999498689431439
+Cerebrovascular ischaemia 	betrixaban	0	0.018735328	1	0.999498689431439
+Glaucoma/ocular hypertension 	bevacizumab	1	1.55e-21	0.75	0.910611085269981
+Cutaneous T-cell lymphoma 	bexarotene	0	5.12e-05	1	0.999498689431439
+Hyperlipidaemia 	bezafibrate	1	0.009923418	0.75	0.945098078077383
+Hyperlipidaemia 	bezafibrate	0	6.35e-11	1	0.916996180685167
+Alopecia 	bimatoprost	0	0.00020483	1	0.999498689431439
+Parkinson disease 	biperiden	0.5	0.015931411	0.875	0.996659662454039
+Hypertension 	bisoprolol	1.5	0.044565463	0.625	0.661048189545015
+Hypertension 	bisoprolol	0.5	0.017409882	0.875	0.759915570510543
+Hypertension 	bisoprolol	0	0.001378237	1	0.916996180685167
+Hypertension 	bisoprolol	1	0.002156608	0.75	0.475573630947114
+Thrombocytopenia 	bivalirudin	0	0.011309699	1	0.999498689431439
+Hodgkin lymphoma 	bleomycin	0	0.002476499	1	0.916996180685167
+Hodgkin lymphoma 	bleomycin	1	0.00707124	0.75	0.939653140975545
+Pulmonary arterial hypertension 	bosentan	0	0.000914993	1	0.999498689431439
+Breast cancer 	bosutinib	1	0.008792216	0.75	0.939653140975545
+Breast cancer 	bosutinib	0.5	0.000298104	0.875	0.759915570510543
+Parkinson disease 	botulinum toxin type b	1	8.42e-05	0.75	0.939653140975545
+Hodgkin lymphoma 	brentuximab vedotin	1	0.008828648	0.75	0.939653140975545
+Anaplastic large cell lymphoma 	brigatinib	1	0.035649537	0.75	0.939653140975545
+Non-small-cell lung cancer 	brigatinib	1	0.035649537	0.75	0.939653140975545
+Ocular hypertension 	brimonidine	0.333333333	0.002266313	0.91666666675	0.827624363017613
+Ocular hypertension 	brimonidine	1.333333333	0.000366928	0.66666666675	0.831480882514626
+Glaucoma/ocular hypertension 	brimonidine	0.333333333	0.002266313	0.91666666675	0.827624363017613
+Glaucoma/ocular hypertension 	brimonidine	1.333333333	0.000366928	0.66666666675	0.831480882514626
+Open-angle glaucoma 	brinzolamide	1.4	0.000169367	0.65	0.810501261545562
+Complex partial seizure 	brivaracetam	1.545454545	0.000599817	0.61363636375	0.720494914417713
+Pain 	brivaracetam	1.545454545	0.000599817	0.61363636375	0.720494914417713
+Epilepsy 	brivaracetam	1.545454545	0.000599817	0.61363636375	0.720494914417713
+Panic attacks 	bromazepam	2.2	0.036160942	0.45	0.161590431201318
+Panic attacks 	bromazepam	1.733333333	0.004625658	0.56666666675	0.126627035604995
+Anxiety disorder 	bromazepam	2.2	0.036160942	0.45	0.161590431201318
+Anxiety disorder 	bromazepam	1.733333333	0.004625658	0.56666666675	0.126627035604995
+Postoperative inflammation 	bromfenac	0	0.001514952	1	0.999498689431439
+Parkinson disease 	bromocriptine	1.611111111	0.000111886	0.59722222225	0.164439354755247
+Parkinson disease 	bromocriptine	1.277777778	1.4e-08	0.6805555555	0.867467186258385
+Parkinson disease 	bromocriptine	0.444444444	3.12e-07	0.888888889	0.784334260371817
+Hay fever 	bromodiphenhydramine	1	0.003059102	0.75	0.945098078077383
+Allergic rhinitis 	brompheniramine	0.833333333	0.04129361	0.79166666675	0.988249510046994
+Nausea 	buclizine	0.5	0.038363253	0.875	0.996659662454039
+Asthma 	budesonide	0.5	0.019968885	0.875	0.996659662454039
+Dermatitis 	bufexamac	0.5	0.039170436	0.875	0.996659662454039
+Anaesthesia 	bupivacaine	1.5	0.008659439	0.625	0.751224390915506
+Pain 	buprenorphine	0.5	0.006301495	0.875	0.996659662454039
+Smoking dependence 	bupropion	1.5	0.008675537	0.625	0.206233008902532
+Smoking dependence 	bupropion	0.5	0.009947801	0.875	0.759915570510543
+Smoking dependence 	bupropion	1.25	0.000443119	0.6875	0.868009167412631
+Anxiety disorder 	buspirone	1	1.1e-06	0.75	0.945098078077383
+Anxiety disorder 	buspirone	0.428571429	0.000135969	0.89285714275	0.790970967897522
+Insomnia 	butabarbital	1.647058824	0.000146046	0.588235294	0.644102621853535
+Headache 	butalbital	2.176470588	0.039765917	0.455882353	0.172409432264823
+Headache 	butalbital	1.647058824	0.000441137	0.588235294	0.152460696976449
+Anxiety disorder 	butalbital	2.176470588	0.039765917	0.455882353	0.172409432264823
+Anxiety disorder 	butalbital	1.647058824	0.000441137	0.588235294	0.152460696976449
+Hyperprolactinaemia 	cabergoline	0.4	2.9e-09	0.9	0.802535407328769
+Hyperprolactinaemia 	cabergoline	1.2	4e-08	0.7	0.895622553226265
+Hyperprolactinaemia 	cabergoline	1.55	0.000363905	0.6125	0.186519932320496
+Thyroid cancer 	cabozantinib	0.333333333	0.006428897	0.91666666675	0.998223773135608
+Ovarian cancer 	cabozantinib	0.333333333	0.006428897	0.91666666675	0.998223773135608
+Orthostatic hypotension 	caffeine	1.78125	0.043226422	0.5546875	0.512963116713718
+Vitamin D deficiency 	calcifediol	0	0.030499728	1	0.999498689431439
+Psoriasis vulgaris 	calcipotriol	0	0.019968885	1	0.999498689431439
+Congenital alopecia 	calcitriol	1	0.041950183	0.75	0.939653140975545
+Urticaria 	canakinumab	1	0.023133954	0.75	0.945098078077383
+Urticaria 	canakinumab	0	0.013228375	1	0.916996180685167
+Rheumatoid arthritis 	canakinumab	1	0.023133954	0.75	0.945098078077383
+Rheumatoid arthritis 	canakinumab	0	0.013228375	1	0.916996180685167
+Cryopyrin-associated periodic syndromes 	canakinumab	1	0.023133954	0.75	0.945098078077383
+Cryopyrin-associated periodic syndromes 	canakinumab	0	0.013228375	1	0.916996180685167
+Vasculitis 	canakinumab	1	0.023133954	0.75	0.945098078077383
+Vasculitis 	canakinumab	0	0.013228375	1	0.916996180685167
+Thrombosis 	cangrelor	0	0.000212122	1	0.999498689431439
+LennoxGastaut syndrome 	cannabidiol	0.789473684	5.63e-05	0.802631579	0.605523182537791
+LennoxGastaut syndrome 	cannabidiol	1.710526316	0.011362714	0.572368421	0.133068133960698
+LennoxGastaut syndrome 	cannabidiol	1.789473684	0.038827963	0.552631579	0.505877494381337
+Dravet syndrome 	cannabidiol	0.789473684	5.63e-05	0.802631579	0.605523182537791
+Dravet syndrome 	cannabidiol	1.710526316	0.011362714	0.572368421	0.133068133960698
+Dravet syndrome 	cannabidiol	1.789473684	0.038827963	0.552631579	0.505877494381337
+Molluscum contagiosum infection 	cantharidin	0	0.005026772	1	0.999498689431439
+Colorectal cancer 	capecitabine	0	0.001418066	1	0.999498689431439
+Breast cancer 	capecitabine	0	0.001418066	1	0.999498689431439
+Neuropathic pain 	capsaicin	1	0.036152176	0.75	0.945098078077383
+Hypertension 	captopril	0.4	0.004132491	0.9	0.997713004352496
+Hypertension 	captopril	1.4	0.030467365	0.65	0.250155464708731
+Epilepsy 	carbamazepine	1.555555556	0.010661873	0.611111111	0.713359050810149
+Postpartum haemorrhage 	carbetocin	1	0.000509398	0.75	0.939653140975545
+Vasomotor/allergic rhinitis 	carbinoxamine	1	0.008116575	0.75	0.945098078077383
+Abortion 	carboprost tromethamine	1	0.010384933	0.75	0.945098078077383
+Abortion 	carboprost tromethamine	0	0.03295122	1	0.916996180685167
+Bipolar disorder 	cariprazine	1.333333333	0.000246933	0.66666666675	0.282698225791934
+Bipolar disorder 	cariprazine	0.666666667	1.05e-09	0.83333333325	0.982121775956082
+Bipolar disorder 	cariprazine	0.5	0.003800369	0.875	0.759915570510543
+Musculoskeletal disorder 	carisoprodol	2	0.026101818	0.5	0.271864846529077
+Pain 	carprofen	0	0.003659981	1	0.999498689431439
+Glaucoma/ocular hypertension 	carteolol	0	0.002927344	1	0.916996180685167
+Glaucoma/ocular hypertension 	carteolol	1	0.026153288	0.75	0.475573630947114
+Glaucoma/ocular hypertension 	carteolol	1.5	0.041546638	0.625	0.661048189545015
+Glaucoma/ocular hypertension 	carteolol	0.5	0.022716858	0.875	0.759915570510543
+Congestive heart failure 	carvedilol	0.444444444	1.68e-06	0.888888889	0.784334260371817
+Congestive heart failure 	carvedilol	1.222222222	4.09e-05	0.6944444445	0.888166295431888
+Constipation 	castor oil	0	0.000832077	1	0.999498689431439
+Malignant pleural effusion 	catumaxomab	1.571428571	1.55e-06	0.60714285725	0.606304472333009
+Bacterial infection 	cefazolin	1.333333333	0.003871212	0.66666666675	0.282698225791934
+Bacterial infection 	cefazolin	0.333333333	0.001731031	0.91666666675	0.998223773135608
+Bacterial infection 	cefdinir	0	0.023012062	1	0.916996180685167
+Bacterial infection 	cefdinir	1	0.000137263	0.75	0.945098078077383
+Cutaneous squamous cell carcinoma 	cemiplimab	1	0.000958758	0.75	0.939653140975545
+Neurotrophic keratitis 	cenegermin	0	0.023296852	1	0.999498689431439
+Hyperlipidaemia 	cerivastatin	0	0.03810181	1	0.999498689431439
+Multiple myeloma 	cerivastatin	0	0.03810181	1	0.999498689431439
+Tripeptidyl peptidase 1 deficiency 	cerliponase alfa	0	0.000778463	1	0.999498689431439
+Neuronal ceroid lipofuscinosis 	cerliponase alfa	0	0.000778463	1	0.999498689431439
+Allergic rhinitis 	cetirizine	1	0.000143541	0.75	0.945098078077383
+Ovarian stimulation 	cetrorelix	0.5	0.018246327	0.875	0.996659662454039
+Colorectal cancer 	cetuximab	1	2.07e-19	0.75	0.910611085269981
+Sjogren syndrome 	cevimeline	0.5	0.046014821	0.875	0.996659662454039
+Anxiety disorder 	chlordiazepoxide	1.846153846	0.033651776	0.5384615385	0.475053509225162
+Bacterial infection 	chlorhexidine	0	0.01359838	1	0.999498689431439
+Diagnostic imaging 	chlormerodrin	1.5	0.014010131	0.625	0.735272017343177
+Anxiety disorder 	chlormezanone	0	0.012428583	1	0.999498689431439
+Anaesthesia 	chloroprocaine	1.25	6.63e-06	0.6875	0.868009167412631
+Anaesthesia 	chloroprocaine	1.25	0.000505795	0.6875	0.326780372623774
+Malaria 	chloroquine	0	6.04e-05	1	0.999498689431439
+Congestive heart failure 	chlorothiazide	1.333333333	0.010063658	0.66666666675	0.843611506693975
+Allergic rhinitis 	chlorpheniramine	0.75	4.65e-09	0.8125	0.628833714233804
+Allergic rhinitis 	chlorpheniramine	1.5	0.000301725	0.625	0.661048189545015
+Allergic rhinitis 	chlorpheniramine	0.75	3.66e-08	0.8125	0.976247630772842
+Allergic rhinitis 	chlorpheniramine	0.5	0.00501309	0.875	0.759915570510543
+Schizophrenia 	chlorpromazine	0.5	2.06e-08	0.875	0.759915570510543
+Schizophrenia 	chlorpromazine	1.307692308	4.45e-11	0.673076923	0.295875988340664
+Schizophrenia 	chlorpromazine	1.615384615	0.000413402	0.59615384625	0.651064787356054
+Non-insulin dependent diabetes 	chlorpropamide	0	0.011614785	1	0.999498689431439
+Psychotic disorder 	chlorprothixene	0.5	1.82e-05	0.875	0.759915570510543
+Psychotic disorder 	chlorprothixene	1.25	1.13e-09	0.6875	0.878194941649415
+Psychotic disorder 	chlorprothixene	1.583333333	0.001545837	0.60416666675	0.174204589173168
+Edema 	chlorthalidone	1	1.44e-08	0.75	0.945098078077383
+Edema 	chlorthalidone	0.5	0.034943627	0.875	0.759915570510543
+Hypertension 	chlorthalidone	1	1.44e-08	0.75	0.945098078077383
+Hypertension 	chlorthalidone	0.5	0.034943627	0.875	0.759915570510543
+Acute pain 	chlorzoxazone	0	0.005120837	1	0.916996180685167
+Acute pain 	chlorzoxazone	1	0.045787005	0.75	0.945098078077383
+Vitamin D deficiency 	cholecalciferol	0	0.013955718	1	0.999498689431439
+Osteoarthritis 	choline magnesium trisalicylate	0	0.001764246	1	0.999498689431439
+Inflammation 	choline salicylate	0.571428571	0.0023808	0.85714285725	0.995622925786853
+Female infertility 	choriogonadotropin alfa	0	0.000741191	1	0.999498689431439
+Musculoskeletal disorder 	chymopapain	1	0.006744007	0.75	0.945098078077383
+Congestive heart failure 	cilazapril	1	0.003304639	0.75	0.475573630947114
+Congestive heart failure 	cilazapril	1	0.002444564	0.75	0.910611085269981
+Congestive heart failure 	cilazapril	0	9.27e-10	1	0.916996180685167
+Congestive heart failure 	cilazapril	0	0.028322859	1	0.916996180685167
+Kidney disease 	cinacalcet	0	0.030117581	1	0.916996180685167
+Kidney disease 	cinacalcet	1	0.000778463	0.75	0.945098078077383
+Hyperparathyroidism 	cinacalcet	0	0.030117581	1	0.916996180685167
+Hyperparathyroidism 	cinacalcet	1	0.000778463	0.75	0.945098078077383
+Vertigo meniere disease 	cinnarizine	0.6875	7.91e-05	0.828125	0.664511985785102
+Vertigo meniere disease 	cinnarizine	1.6875	0.009305349	0.578125	0.139850367811517
+Vertigo meniere disease 	cinnarizine	1.75	0.013306123	0.5625	0.539816911910723
+Hyperlipoproteinemia 	ciprofibrate	0	0.000370198	1	0.999498689431439
+Gastrointestinal disease 	cisapride	1.25	0.016086373	0.6875	0.326780372623774
+Gastrointestinal disease 	cisapride	1.25	0.000758091	0.6875	0.868009167412631
+Gastroesophageal reflux disease 	cisapride	1.25	0.016086373	0.6875	0.326780372623774
+Gastroesophageal reflux disease 	cisapride	1.25	0.000758091	0.6875	0.868009167412631
+Solid tumour/cancer 	cisplatin	1.5	0.000173412	0.625	0.661048189545015
+Solid tumour/cancer 	cisplatin	0.5	0.025702571	0.875	0.759915570510543
+Depression 	citalopram	1	4.89e-05	0.75	0.910611085269981
+Depression 	citalopram	0.5	0.032832641	0.875	0.759915570510543
+Depression 	citalopram	1	0.000915877	0.75	0.939653140975545
+Depression 	citalopram	0.5	2.7e-06	0.875	0.759915570510543
+Allergic rhinitis 	clemastine	1	0.003466974	0.75	0.945098078077383
+Chronic breathing disorder 	clenbuterol	0.2	8.34e-13	0.95	0.996426678482775
+Chronic breathing disorder 	clenbuterol	1.8	0.043483707	0.55	0.109312457969489
+Chronic breathing disorder 	clenbuterol	0	1.12e-05	1	0.916996180685167
+Irritable bowel syndrome 	clidinium	0	0.020207254	1	0.999498689431439
+Abdominal stomach pain 	clidinium	0	0.020207254	1	0.999498689431439
+Dysbetalipoproteinemia 	clofibrate	0	0.008929131	1	0.999498689431439
+Depression 	clomipramine	0.833333333	1.7e-10	0.79166666675	0.57905209243383
+Depression 	clomipramine	1.166666667	1.67e-05	0.70833333325	0.897594731667961
+Depression 	clomipramine	0.333333333	3.31e-05	0.91666666675	0.827624363017613
+Epilepsy 	clonazepam	1.8	0.013520301	0.55	0.515195496152686
+Seizure disorder 	clonazepam	1.8	0.013520301	0.55	0.515195496152686
+Hypertension 	clonidine	1.5	0.004166993	0.625	0.206233008902532
+Hypertension 	clonidine	0.5	0.001307523	0.875	0.996659662454039
+Thrombosis 	clopidogrel	0	0.007138562	1	0.999498689431439
+Anxiety disorder 	clotiazepam	1.692307692	0.001257411	0.576923077	0.607233099879344
+Fungal infection 	clotrimazole	0.5	0.048168153	0.875	0.996659662454039
+Schizophrenia 	clozapine	0.592592593	3.87e-08	0.85185185175	0.715191884521535
+Schizophrenia 	clozapine	1.666666667	0.007623336	0.58333333325	0.146233886424169
+Schizophrenia 	clozapine	1.703703704	0.001658062	0.574074074	0.579134796045672
+Anaesthesia 	cocaine	1.555555556	0.007742797	0.611111111	0.184421736650039
+Anaesthesia 	cocaine	2	0.034960336	0.5	0.271864846529077
+Anaesthesia 	cocaine	1.111111111	1.16e-08	0.72222222225	0.407197952041138
+Anaesthesia 	cocaine	0.666666667	0.005792389	0.83333333325	0.676022002084612
+Sarcoidosis 	collagenase clostridium histolyticum	1.5	1.73e-06	0.625	0.661048189545015
+Euvolemic hyponatremia 	conivaptan	1	0.000358549	0.75	0.475573630947114
+Euvolemic hyponatremia 	conivaptan	1	0.000148135	0.75	0.939653140975545
+Contraception 	copper	0.713235294	1.12e-11	0.8216911765	0.650020302112954
+Contraception 	copper	1.852941176	1.54e-10	0.536764706	0.377784889317582
+Contraception 	copper	1.360294118	2.48e-06	0.6599264705	0.269232779929695
+Infertility 	corifollitropin alfa	0	0.003059102	1	0.999498689431439
+Diagnostic imaging 	corticorelin ovine triflutate	0	0.015166429	1	0.999498689431439
+Solid tumour/cancer 	curcumin	0.8	0.001404381	0.8	0.971858784474537
+Solid tumour/cancer 	curcumin	0.4	0.006028955	0.9	0.802535407328769
+Anemia 	cyanocobalamin	0	7.47e-07	1	0.999498689431439
+Depression 	cyclobenzaprine	1.333333333	4.45e-05	0.66666666675	0.831480882514626
+Depression 	cyclobenzaprine	0.333333333	3.63e-07	0.91666666675	0.827624363017613
+Depression 	cyclobenzaprine	1.333333333	0.001494165	0.66666666675	0.282698225791934
+Examination of eyes or vision 	cyclopentolate	0	0.010126235	1	0.999498689431439
+Solid tumour/cancer 	cyclophosphamide	0	0.003525365	1	0.999498689431439
+Congestive heart failure 	cyclothiazide	1.4	0.000770499	0.65	0.810501261545562
+Parkinson disease 	cycrimine	0	0.009997348	1	0.999498689431439
+Rhinitis 	cyproheptadine	1.571428571	0.02254035	0.60714285725	0.684660096698856
+Rhinitis 	cyproheptadine	0.285714286	2.92e-05	0.9285714285	0.843951868427611
+Nephropathic cystinosis 	cysteamine	0	0.001526264	1	0.999498689431439
+Venous thromboembolism 	dabigatran etexilate	0	0.019968885	1	0.999498689431439
+Melanoma 	dabrafenib	1	0.025938833	0.75	0.939653140975545
+Deep venous clot 	danaparoid	0	0.011836487	1	0.999498689431439
+Breast cancer 	danazol	0.4	0.032768595	0.9	0.997713004352496
+Menorrhagia 	danazol	0.4	0.032768595	0.9	0.997713004352496
+Glaucoma/ocular hypertension 	dapiprazole	1	3.28e-05	0.75	0.945098078077383
+Multiple myeloma 	daratumumab	0	1.58e-08	1	0.997960746870246
+Overactive bladder 	darifenacin	0.8	0.008432523	0.8	0.989632625584422
+Multiple myeloma 	dasatinib	0.608695652	0.004152711	0.847826087	0.994960591826623
+Chronic myelogenous leukaemia 	dasatinib	0.608695652	0.004152711	0.847826087	0.994960591826623
+Muscle spasm 	decamethonium	0.25	0.000116191	0.9375	0.998705144399657
+Diabetic nephropathy 	defibrotide	1.333333333	0.001091437	0.66666666675	0.831480882514626
+Hepatic veno-occlusive disease 	defibrotide	1.333333333	0.001091437	0.66666666675	0.831480882514626
+Prostate cancer 	denosumab	0	0.004954394	1	0.999498689431439
+Postmenopausal osteoporosis 	denosumab	0	0.004954394	1	0.999498689431439
+Rheumatoid arthritis 	denosumab	0	0.004954394	1	0.999498689431439
+Hypertension 	deserpidine	1	0.004445649	0.75	0.945098078077383
+Anaesthesia 	desflurane	1.777777778	0.012032261	0.5555555555	0.534485197790855
+Depression 	desipramine	1.333333333	1.08e-08	0.66666666675	0.282698225791934
+Depression 	desipramine	0.476190476	7.92e-07	0.880952381	0.770606764631831
+Depression 	desipramine	1.571428571	3.45e-06	0.60714285725	0.684660096698856
+Attention deficit hyperactivity disorder 	desipramine	1.333333333	1.08e-08	0.66666666675	0.282698225791934
+Attention deficit hyperactivity disorder 	desipramine	0.476190476	7.92e-07	0.880952381	0.770606764631831
+Attention deficit hyperactivity disorder 	desipramine	1.571428571	3.45e-06	0.60714285725	0.684660096698856
+Allergic rhinitis 	desloratadine	1	0.013472051	0.75	0.945098078077383
+Diabetic complication 	desmopressin	1	5.13e-07	0.75	0.945098078077383
+Diabetic complication 	desmopressin	1.333333333	0.000188837	0.66666666675	0.282698225791934
+Menopause symptom 	desvenlafaxine	0.333333333	0.001306053	0.91666666675	0.827624363017613
+Menopause symptom 	desvenlafaxine	1.333333333	0.000505795	0.66666666675	0.771890854627055
+Menopause symptom 	desvenlafaxine	0.333333333	1.06e-11	0.91666666675	0.827624363017613
+Menopause symptom 	desvenlafaxine	0.666666667	1.9e-07	0.83333333325	0.676022002084612
+Major depressive disorder 	desvenlafaxine	0.333333333	0.001306053	0.91666666675	0.827624363017613
+Major depressive disorder 	desvenlafaxine	1.333333333	0.000505795	0.66666666675	0.771890854627055
+Major depressive disorder 	desvenlafaxine	0.333333333	1.06e-11	0.91666666675	0.827624363017613
+Major depressive disorder 	desvenlafaxine	0.666666667	1.9e-07	0.83333333325	0.676022002084612
+Tardive dyskinesia 	deutetrabenazine	1	0.001385596	0.75	0.945098078077383
+Huntington disease 	deutetrabenazine	1	0.001385596	0.75	0.945098078077383
+Rheumatoid arthritis 	dexamethasone	0.4	4.29e-05	0.9	0.802535407328769
+Rheumatoid arthritis 	dexamethasone	1	0.035170068	0.75	0.945098078077383
+Hay fever 	dexbrompheniramine	1	0.00035751	0.75	0.945098078077383
+Rhinitis 	dexchlorpheniramine maleate	1	0.000778463	0.75	0.945098078077383
+Ankylosing spondylitis 	dexibuprofen	0.583333333	0.00057109	0.85416666675	0.995421355756168
+Irritability 	dexmedetomidine	0	1.24e-23	1	0.997960746870246
+Irritability 	dexmedetomidine	0	0.001482464	1	0.916996180685167
+Narcolepsy 	dextroamphetamine	0.6	0.019535189	0.85	0.711404818907248
+Narcolepsy 	dextroamphetamine	1.4	0.000389272	0.65	0.796783412541402
+Narcolepsy 	dextroamphetamine	1	4.45e-05	0.75	0.475573630947114
+Attention deficit hyperactivity disorder 	dextroamphetamine	0.6	0.019535189	0.85	0.711404818907248
+Attention deficit hyperactivity disorder 	dextroamphetamine	1.4	0.000389272	0.65	0.796783412541402
+Attention deficit hyperactivity disorder 	dextroamphetamine	1	4.45e-05	0.75	0.475573630947114
+Cough 	dextromethorphan	0.619047619	4.75e-05	0.84523809525	0.701530711554085
+Cough 	dextromethorphan	1.904761905	0.000149098	0.52380952375	0.338430602147078
+Cough 	dextromethorphan	1.523809524	0.001526264	0.619047619	0.196659140855052
+Epilepsy 	diazepam	1.75	0.009103627	0.5625	0.12209024541556
+Epilepsy 	diazepam	2.1875	0.017830636	0.453125	0.167268210401379
+Hypertension 	diazoxide	1.333333333	0.035622639	0.66666666675	0.843611506693975
+Hypertension 	diazoxide	0.5	0.000937273	0.875	0.759915570510543
+Osteoarthritis 	diclofenac	0	0.004705264	1	0.999498689431439
+Functional bowel syndrome 	dicyclomine	0	0.001920768	1	0.999498689431439
+Human immunodeficiency virus infection 	didanosine	0	4.1e-05	1	0.999498689431439
+Lymphatic filariasis 	diethylcarbamazine	0	0.001163293	1	0.999498689431439
+Pain 	diflunisal	0	0.002407693	1	0.999498689431439
+Alcohol dependence 	dihydroergocristine	1.793103448	0.023726857	0.551724138	0.111002476754526
+Alcohol dependence 	dihydroergocristine	0.655172414	2.09e-07	0.8362068965	0.682283470682554
+Alcohol dependence 	dihydroergocristine	1.448275862	2.23e-07	0.6379310345	0.783335978220978
+Migraine 	dihydroergotamine	1.5	0.013955718	0.625	0.751224390915506
+Hypocalcemia 	dihydrotachysterol	0	0.02681328	1	0.999498689431439
+Nausea 	dimenhydrinate	1	0.016878432	0.75	0.945098078077383
+Abortion 	dinoprost tromethamine	0	0.0003844	1	0.999498689431439
+Medical abortion 	dinoprostone	0.4	0.000423991	0.9	0.997713004352496
+Hemorrhoids 	diosmin	0	0.001418066	1	0.999498689431439
+Meniere disease 	diphenhydramine	1.5	0.037547176	0.625	0.751224390915506
+Nausea 	diphenidol	0.333333333	0.003698157	0.91666666675	0.998223773135608
+Allergic rhinitis 	diphenylpyraline	0.5	6.45e-07	0.875	0.759915570510543
+Allergic rhinitis 	diphenylpyraline	1	0.001514771	0.75	0.939653140975545
+Allergic rhinitis 	diphenylpyraline	0.5	0.039984255	0.875	0.759915570510543
+Chronic open-angle glaucoma 	dipivefrin	0	8.13e-06	1	0.999498689431439
+Ventricular arrhythmias 	disopyramide	0.75	0.014632131	0.8125	0.99141072500421
+Alcohol dependence 	disulfiram	0	0.00103082	1	0.999498689431439
+Heart failure 	dobutamine	0.333333333	0.004318501	0.91666666675	0.827624363017613
+Heart failure 	dobutamine	0.666666667	2.61e-06	0.83333333325	0.982121775956082
+Solid tumour/cancer 	docetaxel	0.833333333	0.003963992	0.79166666675	0.57905209243383
+Solid tumour/cancer 	docetaxel	0.666666667	0.000552363	0.83333333325	0.676022002084612
+Solid tumour/cancer 	docetaxel	1.666666667	0.000297043	0.58333333325	0.529196411593648
+Solid tumour/cancer 	docetaxel	0.5	0.01483018	0.875	0.759915570510543
+Sinus rhythm disorder 	dofetilide	1	0.035570596	0.75	0.945098078077383
+Gastrointestinal disease 	domperidone	0	8.58e-07	1	0.998215649602825
+Gastrointestinal disease 	domperidone	1	0.01454488	0.75	0.475573630947114
+Gastrointestinal disease 	domperidone	0	0.00028507	1	0.916996180685167
+Alzheimer disease 	donepezil	1.133333333	1.92e-07	0.71666666675	0.393859717922008
+Alzheimer disease 	donepezil	1.466666667	0.002614858	0.63333333325	0.757029462794277
+Alzheimer disease 	donepezil	0.333333333	7.38e-09	0.91666666675	0.827624363017613
+Parkinson disease 	dopamine	1.266666667	9.57e-09	0.68333333325	0.317680907430541
+Parkinson disease 	dopamine	1.333333333	5.17e-08	0.66666666675	0.831480882514626
+Parkinson disease 	dopamine	0.4	2.74e-06	0.9	0.802535407328769
+Hypotension 	dopamine	1.266666667	9.57e-09	0.68333333325	0.317680907430541
+Hypotension 	dopamine	1.333333333	5.17e-08	0.66666666675	0.831480882514626
+Hypotension 	dopamine	0.4	2.74e-06	0.9	0.802535407328769
+Open-angle glaucoma 	dorzolamide	0.75	0.017958535	0.8125	0.628833714233804
+Open-angle glaucoma 	dorzolamide	1.25	9.82e-05	0.6875	0.878194941649415
+Spasm 	doxacurium	0.5	0.014169729	0.875	0.996659662454039
+Respiratory disease 	doxapram	0.5	0.029237931	0.875	0.996659662454039
+Hypertension 	doxazosin	0.8	0.030494095	0.8	0.599220125721511
+Hypertension 	doxazosin	1.2	0.000323018	0.7	0.895622553226265
+Depression 	doxepin	0.789473684	0.000878876	0.802631579	0.605523182537791
+Depression 	doxepin	1.421052632	2.59e-08	0.644736842	0.798988212713582
+Chronic kidney disease 	doxercalciferol	0	0.046615177	1	0.999498689431439
+Solid tumour/cancer 	doxorubicin	0.5	0.013955718	0.875	0.996659662454039
+Tumour 	doxorubicin	0.5	0.013955718	0.875	0.996659662454039
+Morning sickness 	doxylamine	0.666666667	0.029917764	0.83333333325	0.676022002084612
+Morning sickness 	doxylamine	1	0.001058811	0.75	0.945098078077383
+Angina pectoris 	dronedarone	1.64	0.000124998	0.59	0.631546190552874
+Angina pectoris 	dronedarone	0.64	6.19e-06	0.84	0.69044845168056
+Angina pectoris 	dronedarone	1.6	0.014320329	0.6	0.168291655175903
+Nausea 	droperidol	0	0.000791418	1	0.916996180685167
+Nausea 	droperidol	0.5	1.16e-05	0.875	0.759915570510543
+Nausea 	droperidol	1	0.013974395	0.75	0.939653140975545
+Contraception 	drospirenone	0.5	0.02491327	0.875	0.996659662454039
+Cerebrovascular ischaemia 	drotrecogin alfa	1.333333333	0.000961955	0.66666666675	0.843611506693975
+Cerebrovascular ischaemia 	drotrecogin alfa	0.583333333	0.000648601	0.85416666675	0.719883408623604
+Severe sepsis 	drotrecogin alfa	1.333333333	0.000961955	0.66666666675	0.843611506693975
+Severe sepsis 	drotrecogin alfa	0.583333333	0.000648601	0.85416666675	0.719883408623604
+Neurogenic orthostatic hypotension 	droxidopa	0.4	2.62e-06	0.9	0.802535407328769
+Neurogenic orthostatic hypotension 	droxidopa	1.2	5.08e-07	0.7	0.895622553226265
+Depression 	duloxetine	0.333333333	0.007383403	0.91666666675	0.827624363017613
+Depression 	duloxetine	0.333333333	9.22e-11	0.91666666675	0.827624363017613
+Depression 	duloxetine	0.666666667	3.5e-07	0.83333333325	0.676022002084612
+Depression 	duloxetine	1.333333333	0.000519456	0.66666666675	0.771890854627055
+Asthma 	dupilumab	1	0.019968885	0.75	0.939653140975545
+Asthma 	dupilumab	0	0.011195598	1	0.916996180685167
+Atopic dermatitis 	dupilumab	1	0.019968885	0.75	0.939653140975545
+Atopic dermatitis 	dupilumab	0	0.011195598	1	0.916996180685167
+Urothelial carcinoma 	durvalumab	1.5	0.015998014	0.625	0.735272017343177
+Acute bronchial asthma 	dyphylline	1.625	0.025866338	0.59375	0.661504559867058
+Cutaneous candidiasis 	econazole	0	0.013955718	1	0.999498689431439
+Tinea cruris 	econazole	0	0.013955718	1	0.999498689431439
+Tinea versicolor 	econazole	0	0.013955718	1	0.999498689431439
+Tinea corporis 	econazole	0	0.013955718	1	0.999498689431439
+Tinea pedis 	econazole	0	0.013955718	1	0.999498689431439
+Myasthenia gravis 	edrophonium	0	6.94e-05	1	0.999498689431439
+Psoriasis vulgaris 	efalizumab	1	5.03e-24	0.75	0.910611085269981
+Renal transplantation 	efalizumab	1	5.03e-24	0.75	0.910611085269981
+Thrombocytopenia 	eltrombopag	1	0.000370198	0.75	0.939653140975545
+Idiopathic thrombocytopenic purpura 	eltrombopag	1	0.000370198	0.75	0.939653140975545
+Primary haemophagocytic lymphohistiocytosis 	emapalumab	0	0.025889998	1	0.916996180685167
+Primary haemophagocytic lymphohistiocytosis 	emapalumab	1	0.004445649	0.75	0.945098078077383
+Allergic conjunctivitis 	emedastine	1	0.002281057	0.75	0.945098078077383
+Factor VIII deficiency 	emicizumab	1	0.009061508	0.75	0.945098078077383
+Hypertension 	enalapril	0	0.027471422	1	0.916996180685167
+Hypertension 	enalapril	0	2.17e-08	1	0.998215649602825
+Hypertension 	enalapril	1	0.001818001	0.75	0.910611085269981
+Hypertension 	enalapril	1	0.008116575	0.75	0.475573630947114
+Hypertension 	enalaprilat	1	4.1e-05	0.75	0.945098078077383
+Hypertension 	enalaprilat	1.5	0.007144218	0.625	0.206233008902532
+Hypertension 	enalaprilat	0.5	0.048366326	0.875	0.759915570510543
+Anaesthesia 	enflurane	1.789473684	0.014674401	0.552631579	0.111901113897904
+Anaesthesia 	enflurane	1.894736842	0.016863214	0.5263157895	0.415953356213858
+Venous thrombosis 	enoxaparin	0	0.000561913	1	0.999498689431439
+Thrombosis 	enoxaparin	0	0.000561913	1	0.999498689431439
+Asthma 	enprofylline	1.666666667	0.014414603	0.58333333325	0.609905807393488
+Parkinson disease 	entacapone	0	1.64e-12	1	0.996415052507829
+Parkinson disease 	entacapone	0	0.001418066	1	0.916996180685167
+Parkinson disease 	entacapone	0	0.000232629	1	0.916996180685167
+Parkinson disease 	entacapone	0	0.008347098	1	0.916996180685167
+Mammary analogue secretory carcinoma 	entrectinib	1	0.001052965	0.75	0.939653140975545
+Colorectal cancer 	entrectinib	1	0.001052965	0.75	0.939653140975545
+Asthma 	ephedrine	0.5	0.018911456	0.875	0.996659662454039
+Allergic conjunctivitis 	epinastine	1.5	0.030916338	0.625	0.206233008902532
+Allergic conjunctivitis 	epinastine	0.5	0.000616415	0.875	0.759915570510543
+Allergic conjunctivitis 	epinastine	1.333333333	0.000314342	0.66666666675	0.831480882514626
+Allergy 	epinephrine	1	4.64e-05	0.75	0.945098078077383
+Allergy 	epinephrine	0.25	3.63e-07	0.9375	0.855352842489066
+Solid tumour/cancer 	epirubicin	1	0.038880341	0.75	0.939653140975545
+Heart failure 	eplerenone	0	7.22e-06	1	0.999498689431439
+Pulmonary hypertension 	epoprostenol	0	2.49e-05	1	0.999498689431439
+Hypertension 	eprosartan	0	0.001312448	1	0.998215649602825
+Hypertension 	eprosartan	0	0.02681328	1	0.916996180685167
+Acute cardiac ischemic events 	eptifibatide	0	0.004841239	1	0.998215649602825
+Urothelial carcinoma 	erdafitinib	0.333333333	1.72e-06	0.91666666675	0.998223773135608
+Hypoparathyroidism 	ergocalciferol	0.954545455	0.004513367	0.76136363625	0.981504670826547
+Alzheimer disease 	ergoloid mesylate	1.448275862	4.59e-09	0.6379310345	0.783335978220978
+Alzheimer disease 	ergoloid mesylate	0.655172414	1.56e-07	0.8362068965	0.682283470682554
+Alzheimer disease 	ergoloid mesylate	1.793103448	0.042115167	0.551724138	0.111002476754526
+Headache 	ergotamine	1.5625	3.86e-05	0.609375	0.691268143628429
+Headache 	ergotamine	0.5625	1.55e-05	0.859375	0.730264842070635
+Headache 	ergotamine	1.3125	4.32e-12	0.671875	0.852943106429211
+Breast cancer 	eribulin	0.5	0.004137332	0.875	0.988674027190168
+Breast cancer 	eribulin	0.5	0.018845503	0.875	0.759915570510543
+Pancreatic cancer 	erlotinib	0.5	0.011309699	0.875	0.996659662454039
+Colon cancer 	erlotinib	0.5	0.011309699	0.875	0.996659662454039
+Non-small-cell lung cancer 	erlotinib	0.5	0.011309699	0.875	0.996659662454039
+Angina pectoris 	erythrityl tetranitrate	1	0.019995565	0.75	0.945098078077383
+Major depressive disorder 	escitalopram	1.333333333	8.35e-09	0.66666666675	0.831480882514626
+Major depressive disorder 	escitalopram	0.4	6.41e-09	0.9	0.802535407328769
+Major depressive disorder 	escitalopram	1.2	1.71e-10	0.7	0.354850999878246
+Depression 	esketamine	1.1	4.72e-05	0.725	0.916875260450496
+Depression 	esketamine	0.8	1.51e-09	0.8	0.599220125721511
+Depression 	esketamine	0.5	0.000308872	0.875	0.759915570510543
+Acute supraventricular tachycardia 	esmolol	0	0.001418066	1	0.916996180685167
+Acute supraventricular tachycardia 	esmolol	1	0.013955718	0.75	0.939653140975545
+Insomnia 	estazolam	1.733333333	0.006244441	0.56666666675	0.572700816400868
+Breast cancer 	estradiol	0.285714286	0.001428131	0.9285714285	0.998517268863432
+Hormone replacement therapy 	estradiol acetate	0.285714286	0.002237722	0.9285714285	0.998517268863432
+Hormone replacement therapy 	estradiol cypionate	0.285714286	0.010535267	0.9285714285	0.998517268863432
+Hormone replacement therapy 	estradiol valerate	0.285714286	0.000644678	0.9285714285	0.998517268863432
+Prostate cancer 	estramustine	1	0.039939129	0.75	0.939653140975545
+Menopausal and postmenopausal disorder 	estrone	0.2	0.02104129	0.95	0.870142204938429
+Menopausal and postmenopausal disorder 	estrone	0.8	0.020484636	0.8	0.971858784474537
+Insomnia 	eszopiclone	1.846153846	0.037767843	0.5384615385	0.475053509225162
+Pemphigus vulgaris 	etanercept	0.769230769	0.036389811	0.80769230775	0.61754472156451
+Pemphigus vulgaris 	etanercept	1.153846154	3.62e-22	0.7115384615	0.859658629099229
+Sciatica 	etanercept	0.769230769	0.036389811	0.80769230775	0.61754472156451
+Sciatica 	etanercept	1.153846154	3.62e-22	0.7115384615	0.859658629099229
+Arthritis 	etanercept	0.769230769	0.036389811	0.80769230775	0.61754472156451
+Arthritis 	etanercept	1.153846154	3.62e-22	0.7115384615	0.859658629099229
+Secondary hyperparathyroidism 	etelcalcetide	1	0.019968885	0.75	0.945098078077383
+Secondary hyperparathyroidism 	etelcalcetide	0	0.018743134	1	0.916996180685167
+Chronic pain 	ethanol	1.045454545	0.004396124	0.73863636375	0.44734108149539
+Chronic pain 	ethanol	1.863636364	0.014010452	0.534090909	0.442213933480937
+Chronic pain 	ethanol	1.818181818	0.020925654	0.5454545455	0.104964812298701
+Cystitis 	ethanol	1.045454545	0.004396124	0.73863636375	0.44734108149539
+Cystitis 	ethanol	1.863636364	0.014010452	0.534090909	0.442213933480937
+Cystitis 	ethanol	1.818181818	0.020925654	0.5454545455	0.104964812298701
+Insomnia 	ethchlorvynol	1.846153846	0.021481258	0.5384615385	0.475053509225162
+Insomnia 	ethinamate	1	0.000149131	0.75	0.945098078077383
+Insomnia 	ethinamate	0.5	0.027315115	0.875	0.759915570510543
+Pain 	etodolac	0	0.000104466	1	0.999498689431439
+Rheumatoid arthritis 	etoricoxib	0	0.003525365	1	0.999498689431439
+Kidney cancer 	everolimus	0	0.006830513	1	0.999498689431439
+Renal cell carcinoma 	everolimus	0	0.006830513	1	0.999498689431439
+Hormonally-responsive breast cancer 	exemestane	1	0.000137263	0.75	0.945098078077383
+Hormonally-responsive breast cancer 	exemestane	0	0.006500999	1	0.916996180685167
+Hyperuricaemia 	febuxostat	1	0.000109655	0.75	0.939653140975545
+Epilepsy 	felbamate	0.333333333	5.46e-07	0.91666666675	0.827624363017613
+Epilepsy 	felbamate	0.666666667	0.00015741	0.83333333325	0.980055283476762
+Epilepsy 	felbamate	0.333333333	0.007846233	0.91666666675	0.827624363017613
+Hypertension 	felodipine	0.769230769	0.005693804	0.80769230775	0.990765752129407
+High cholesterol level 	fenofibrate	0.333333333	0.0020376	0.91666666675	0.998223773135608
+Cardiovascular disease 	fenofibric acid	0.2	8.36e-06	0.95	0.998928908063831
+Hypertension 	fenoldopam	1.625	0.004191916	0.59375	0.643496298717733
+Hypertension 	fenoldopam	1.375	0.000410524	0.65625	0.262061106154156
+Hypertension 	fenoldopam	0.375	5.83e-05	0.90625	0.812253019594901
+Rheumatoid arthritis 	fenoprofen	0	3.87e-06	1	0.999498689431439
+Asthma 	fenoterol	1.333333333	0.049687929	0.66666666675	0.282698225791934
+Asthma 	fenoterol	0	0.001211485	1	0.916996180685167
+Asthma 	fenoterol	0.333333333	1.59e-06	0.91666666675	0.827624363017613
+Asthma 	fenoterol	1.666666667	0.038643913	0.58333333325	0.529196411593648
+Analgesia 	fentanyl	0.5	0.005008215	0.875	0.759915570510543
+Analgesia 	fentanyl	1.25	0.008024464	0.6875	0.878194941649415
+Allergic rhinitis 	fexofenadine	1	0.003304639	0.75	0.945098078077383
+Neutropenia 	filgrastim	0.5	0.042200802	0.875	0.996659662454039
+Neutropenia 	filgrastim	1	0.028824696	0.75	0.475573630947114
+Neutropenia 	filgrastim	1	0.013045334	0.75	0.939653140975545
+Dysuria 	flavoxate	0	0.000320319	1	0.999498689431439
+Urgency 	flavoxate	0	0.000320319	1	0.999498689431439
+Nocturia 	flavoxate	0	0.000320319	1	0.999498689431439
+Suprapubic pain 	flavoxate	0	0.000320319	1	0.999498689431439
+Female sexual arousal dysfunction 	flibanserin	0.333333333	0.002869014	0.91666666675	0.827624363017613
+Female sexual arousal dysfunction 	flibanserin	1.333333333	0.001344171	0.66666666675	0.831480882514626
+Mood disorder 	flibanserin	0.333333333	0.002869014	0.91666666675	0.827624363017613
+Mood disorder 	flibanserin	1.333333333	0.001344171	0.66666666675	0.831480882514626
+Colorectal cancer 	floxuridine	0	0.001418066	1	0.999498689431439
+Solid tumour/cancer 	floxuridine	0	0.001418066	1	0.999498689431439
+Endocarditis 	flucytosine	0	0.023296852	1	0.999498689431439
+Cerebral salt-wasting syndrome 	fludrocortisone	0.5	0.001385596	0.875	0.996659662454039
+Dysmenorrhea 	flufenamic acid	0.333333333	0.000432116	0.91666666675	0.998223773135608
+Benzodiazepine overdose 	flumazenil	1.846153846	0.033723078	0.5384615385	0.475053509225162
+Insomnia 	flunitrazepam	1.777777778	0.016478133	0.5555555555	0.114840081731367
+Insomnia 	flunitrazepam	1.111111111	0.045922535	0.72222222225	0.407197952041138
+Insomnia 	flunitrazepam	2.111111111	0.023518678	0.47222222225	0.205454054086366
+Inflammation 	fluocinonide	1	0.013472051	0.75	0.945098078077383
+Solid tumour/cancer 	fluorouracil	0	0.005026772	1	0.999498689431439
+Tumour 	fluorouracil	0	0.005026772	1	0.999498689431439
+Depression 	fluoxetine	0.571428571	0.000580485	0.85714285725	0.995622925786853
+Psychotic disorder 	fluphenazine	1	0.000101595	0.75	0.475573630947114
+Psychotic disorder 	fluphenazine	0.166666667	9.07e-06	0.95833333325	0.879271554806123
+Psychotic disorder 	fluphenazine	0.666666667	6.88e-11	0.83333333325	0.980055283476762
+Insomnia 	flurazepam	1.733333333	0.004298074	0.56666666675	0.572700816400868
+Rheumatoid arthritis 	flurbiprofen	0	0.003848635	1	0.999498689431439
+Schizophrenia 	fluspirilene	0.666666667	0.017871322	0.83333333325	0.676022002084612
+Schizophrenia 	fluspirilene	1.333333333	0.025914738	0.66666666675	0.282698225791934
+Schizophrenia 	fluspirilene	0.666666667	3.51e-06	0.83333333325	0.980055283476762
+Prostate cancer 	flutamide	0	0.000319968	1	0.999498689431439
+Allergic rhinitis 	fluticasone	0.5	0.003668153	0.875	0.996659662454039
+Hypercholesterolaemia 	fluvastatin	0.5	0.008429464	0.875	0.996659662454039
+Depression 	fluvoxamine	0.5	0.000166622	0.875	0.759915570510543
+Depression 	fluvoxamine	1	5.68e-06	0.75	0.910611085269981
+Depression 	fluvoxamine	0.5	1.2e-05	0.875	0.759915570510543
+Depression 	fluvoxamine	0.5	0.019968885	0.875	0.759915570510543
+Vitamin deficiency 	folic acid	1.5	0.028475261	0.625	0.206233008902532
+Vitamin deficiency 	folic acid	0.5	0.007994863	0.875	0.996659662454039
+Asthma 	formoterol	0	0.000120148	1	0.916996180685167
+Asthma 	formoterol	0.333333333	2.22e-05	0.91666666675	0.994327988993813
+Asthma 	formoterol	1.333333333	0.015712763	0.66666666675	0.282698225791934
+Hypertension 	fosinopril	0	0.02169323	1	0.916996180685167
+Hypertension 	fosinopril	1	0.012922929	0.75	0.475573630947114
+Hypertension 	fosinopril	0	1.59e-06	1	0.916996180685167
+Hypertension 	fosinopril	1	0.002130568	0.75	0.910611085269981
+Epilepsy 	fosphenytoin	1	0.030499728	0.75	0.939653140975545
+Immune thrombocytopenic purpura 	fostamatinib	0.864864865	0.001409179	0.78378378375	0.559727085352154
+Immune thrombocytopenic purpura 	fostamatinib	1.462837838	5.49e-07	0.6342905405	0.75944931068941
+Rheumatoid arthritis 	fostamatinib	0.864864865	0.001409179	0.78378378375	0.559727085352154
+Rheumatoid arthritis 	fostamatinib	1.462837838	5.49e-07	0.6342905405	0.75944931068941
+Alzheimer disease 	galantamine	1	0.010631454	0.75	0.97809499521373
+Stabilize muscle contraction 	gallamine triethiodide	0.6	0.005753171	0.85	0.995123544742407
+Hypercalcaemia 	gallium nitrate	0.5	0.018792222	0.875	0.996659662454039
+Hyperlipidaemia 	gemfibrozil	0.5	0.007167738	0.875	0.996659662454039
+Acute myeloid leukaemia 	gemtuzumab ozogamicin	1	1.66e-19	0.75	0.910611085269981
+Bacterial infection 	gentamicin	0.5	0.000222043	0.875	0.759915570510543
+Bacterial infection 	gentamicin	1.5	0.009935867	0.625	0.661048189545015
+Bacterial infection 	gentamicin	0.5	0.036491273	0.875	0.759915570510543
+Acute myeloid leukaemia 	gilteritinib	1.055555556	0.046296866	0.736111111	0.973086425632035
+Diabetic complication 	gliclazide	0	0.000354692	1	0.999498689431439
+Diabetic complication 	glimepiride	0.333333333	0.002209523	0.91666666675	0.998223773135608
+Diabetic complication 	glipizide	1	0.044065343	0.75	0.945098078077383
+Diabetic complication 	glipizide	0	0.004721264	1	0.916996180685167
+Diabetic complication 	gliquidone	0.5	0.024936826	0.875	0.996659662454039
+Osteoarthritis 	glucosamine	1	0.021286118	0.75	0.945098078077383
+Osteoarthritis 	glucosamine	0	9.81e-05	1	0.916996180685167
+Human immunodeficiency virus infection 	glutathione	0.447368421	5.45e-21	0.88815789475	0.997263346779681
+Insomnia 	glutethimide	1.846153846	0.04382071	0.5384615385	0.475053509225162
+Malnutrition 	glycine	1.76	0.036032726	0.56	0.531241327783627
+Rheumatoid arthritis 	golimumab	0	0.016518772	1	0.998215649602825
+Inflammatory bowel disease 	golimumab	0	0.016518772	1	0.998215649602825
+Breast cancer 	goserelin	0.5	0.029491062	0.875	0.996659662454039
+High blood pressure 	guanabenz	1	9.91e-07	0.75	0.939653140975545
+High blood pressure 	guanabenz	0	0.00194825	1	0.916996180685167
+Moderate and severe hypertension 	guanethidine	1	0.00021756	0.75	0.939653140975545
+Anxiety disorder 	halazepam	1.733333333	0.01012231	0.56666666675	0.572700816400868
+Skin disease 	halcinonide	1	0.019968885	0.75	0.945098078077383
+Malaria 	halofantrine	1	0.02681328	0.75	0.939653140975545
+Schizophrenia 	haloperidol	0.388888889	3.55e-08	0.90277777775	0.806900452905362
+Schizophrenia 	haloperidol	1.277777778	7.07e-12	0.6805555555	0.856645005656245
+Schizophrenia 	haloperidol	1.444444444	2.97e-05	0.638888889	0.229896728106207
+Anaesthesia 	halothane	1	0.010914477	0.75	0.475573630947114
+Anaesthesia 	halothane	1.851851852	0.025658679	0.537037037	0.0973156650145975
+Anaesthesia 	halothane	1.555555556	1.26e-06	0.611111111	0.713359050810149
+Bacterial infection 	hexachlorophene	0.333333333	0.025562266	0.91666666675	0.998223773135608
+Peptic ulcer 	homatropine methylbromide	0.8	0.02801105	0.8	0.989632625584422
+Uveitis 	homatropine methylbromide	0.8	0.02801105	0.8	0.989632625584422
+Bleeding disorder 	human thrombin	0.375	3.4e-05	0.90625	0.99791977939539
+Bleeding disorder 	human thrombin	1.375	0.000665469	0.65625	0.262061106154156
+Alzheimer disease 	huperzine a	0	0.018990157	1	0.999498689431439
+Pain 	hydrocodone	0.333333333	0.005828413	0.91666666675	0.827624363017613
+Pain 	hydrocodone	1.333333333	0.01453463	0.66666666675	0.831480882514626
+Inflammation 	hydrocortisone	0.5	0.005026772	0.875	0.996659662454039
+Congestive heart failure 	hydroflumethiazide	1.375	0.003827837	0.65625	0.823508316799341
+Congestive heart failure 	hydroflumethiazide	0.625	0.013429977	0.84375	0.698405543162004
+Lung injury 	hydroxocobalamin	0.333333333	3.93e-07	0.91666666675	0.998223773135608
+Vitamin B12 deficiency 	hydroxocobalamin	0.333333333	3.93e-07	0.91666666675	0.998223773135608
+Anxiety disorder 	hydroxyzine	1	0.004954394	0.75	0.945098078077383
+Gastrointestinal disease 	hyoscyamine	0.5	0.007170166	0.875	0.996659662454039
+Human immunodeficiency virus-1 infection 	ibalizumab	0.333333333	0.002897268	0.91666666675	0.998223773135608
+Osteoporosis 	ibandronate	0	0.004752629	1	0.999498689431439
+Pain 	ibuprofen	0.5	0.000159969	0.875	0.996659662454039
+Atrial fibrillation 	ibutilide	0.875	0.029650431	0.78125	0.986261956524198
+Hereditary angioedema 	icatibant	1.5	0.023673359	0.625	0.735272017343177
+Hyperglyceridemia 	icosapent	0.454545455	6.09e-05	0.88636363625	0.997187918776537
+Thrombin deficiency 	icosapent	0.454545455	6.09e-05	0.88636363625	0.997187918776537
+Hypertriglyceridemia 	icosapent	0.454545455	6.09e-05	0.88636363625	0.997187918776537
+Solid tumour/cancer 	ifosfamide	0	0.006830513	1	0.999498689431439
+Schizophrenia 	iloperidone	1.363636364	0.000536348	0.659090909	0.267592015277234
+Schizophrenia 	iloperidone	1.363636364	3.28e-06	0.659090909	0.816330670195741
+Schizophrenia 	iloperidone	0.272727273	1.05e-08	0.93181818175	0.848180158816482
+Pulmonary arterial hypertension 	iloprost	0.75	0.048672013	0.8125	0.628833714233804
+Pulmonary arterial hypertension 	iloprost	1.375	0.00032906	0.65625	0.823508316799341
+Chronic myelogenous leukaemia 	imatinib	0.375	0.003494701	0.90625	0.812253019594901
+Chronic myelogenous leukaemia 	imatinib	1	0.004719134	0.75	0.939653140975545
+Systemic mastocytosis 	imatinib	0.375	0.003494701	0.90625	0.812253019594901
+Systemic mastocytosis 	imatinib	1	0.004719134	0.75	0.939653140975545
+Intestinal cancer 	imatinib	0.375	0.003494701	0.90625	0.812253019594901
+Intestinal cancer 	imatinib	1	0.004719134	0.75	0.939653140975545
+Lung cancer 	imatinib	0.375	0.003494701	0.90625	0.812253019594901
+Lung cancer 	imatinib	1	0.004719134	0.75	0.939653140975545
+Depression 	imipramine	1.56	1.94e-06	0.61	0.69310460995807
+Depression 	imipramine	0.56	1.63e-08	0.86	0.731494181998516
+Depression 	imipramine	1.36	2.6e-09	0.66	0.269377471185143
+Chronic obstructive pulmonary disease 	indacaterol	1	0.003525365	0.75	0.910611085269981
+Asthma 	indacaterol	1	0.003525365	0.75	0.910611085269981
+Dysrhythmias 	indecainide	1	0.046615177	0.75	0.939653140975545
+Rheumatoid arthritis 	indomethacin	0.777777778	0.019886502	0.8055555555	0.990463909261791
+Rheumatoid arthritis 	infliximab	0	0.014515165	1	0.998215649602825
+Rheumatoid arthritis 	infliximab	0	0.042410927	1	0.916996180685167
+Plaque psoriasis 	infliximab	0	0.014515165	1	0.998215649602825
+Plaque psoriasis 	infliximab	0	0.042410927	1	0.916996180685167
+Asthma 	infliximab	0	0.014515165	1	0.998215649602825
+Asthma 	infliximab	0	0.042410927	1	0.916996180685167
+Melanoma 	interferon alfa-2b	1	0.009878298	0.75	0.939653140975545
+Chronic myelogenous leukaemia 	interferon alfa-n1	1	0.016894953	0.75	0.939653140975545
+Human immunodeficiency virus infection 	interferon alfa-n3	1	0.019496911	0.75	0.939653140975545
+Hepatitis C virus infection 	interferon alfacon-1	1	0.016946622	0.75	0.939653140975545
+Multiple sclerosis 	interferon beta-1a	1	0.031581762	0.75	0.939653140975545
+Multiple sclerosis 	interferon beta-1b	1	0.015281199	0.75	0.939653140975545
+Chronic granulomatous disease 	interferon gamma-1b	0.5	0.047139425	0.875	0.759915570510543
+Chronic granulomatous disease 	interferon gamma-1b	1.5	0.047813736	0.625	0.735272017343177
+Melanoma 	ipilimumab	1	0.023296852	0.75	0.939653140975545
+Obstructive lung disease 	ipratropium	0.333333333	0.009174584	0.91666666675	0.998223773135608
+Hypertension 	irbesartan	1	0.042410927	0.75	0.939653140975545
+Hypertension 	irbesartan	0.5	0.000111639	0.875	0.759915570510543
+Hypertension 	irbesartan	0.5	0.004954394	0.875	0.759915570510543
+Invasive aspergillosis 	isavuconazole	0.666666667	0.006007237	0.83333333325	0.676022002084612
+Invasive aspergillosis 	isavuconazole	1.444444444	0.000881598	0.638888889	0.770843143034142
+Invasive aspergillosis 	isavuconazole	1.444444444	0.02429749	0.638888889	0.229896728106207
+Candidemia 	isavuconazole	0.666666667	0.006007237	0.83333333325	0.676022002084612
+Candidemia 	isavuconazole	1.444444444	0.000881598	0.638888889	0.770843143034142
+Candidemia 	isavuconazole	1.444444444	0.02429749	0.638888889	0.229896728106207
+Invasive candidiasis 	isavuconazole	0.666666667	0.006007237	0.83333333325	0.676022002084612
+Invasive candidiasis 	isavuconazole	1.444444444	0.000881598	0.638888889	0.770843143034142
+Invasive candidiasis 	isavuconazole	1.444444444	0.02429749	0.638888889	0.229896728106207
+Depression 	isocarboxazid	1.5	0.010455593	0.625	0.206233008902532
+Depression 	isocarboxazid	0	0.001671953	1	0.999498689431439
+Asthma 	isoetharine	0	0.006428897	1	0.916996180685167
+Asthma 	isoetharine	1	0.021056093	0.75	0.475573630947114
+Asthma 	isoetharine	0.5	0.047460101	0.875	0.759915570510543
+Asthma 	isoetharine	1.5	0.02112701	0.625	0.661048189545015
+Anaesthesia 	isoflurane	1.75	0.013515586	0.5625	0.558446451835877
+Glaucoma/ocular hypertension 	isoflurophate	0	1.59e-05	1	0.999498689431439
+Tuberculosis 	isoniazid	0.5	0.001694045	0.875	0.996659662454039
+Tuberculosis 	isoniazid	1.5	0.022148416	0.625	0.206233008902532
+Acne vulgaris 	isotretinoin	0	0.001312448	1	0.999498689431439
+Intestinal strongyloidiasis due to nematode parasite 	ivermectin	1	0.006744007	0.75	0.945098078077383
+Psoriatic arthritis 	ixekizumab	0	0.024273764	1	0.999498689431439
+Plaque psoriasis 	ixekizumab	0	0.024273764	1	0.999498689431439
+Anaesthesia 	ketamine	1.608695652	8.4e-05	0.597826087	0.165270741344573
+Anaesthesia 	ketamine	0.739130435	1.8e-05	0.81521739125	0.991755308488109
+Fungal infection 	ketoconazole	1	0.00099307	0.75	0.945098078077383
+Fungal infection 	ketoconazole	0.4	0.005344602	0.9	0.802535407328769
+Musculoskeletal pain 	ketoprofen	0.333333333	0.005624839	0.91666666675	0.998223773135608
+Musculoskeletal pain 	ketoprofen	1.333333333	0.008031494	0.66666666675	0.831480882514626
+Pain 	ketoprofen	0.333333333	0.005624839	0.91666666675	0.998223773135608
+Pain 	ketoprofen	1.333333333	0.008031494	0.66666666675	0.831480882514626
+Postoperative inflammation 	ketorolac	1.5	0.042200802	0.625	0.206233008902532
+Postoperative inflammation 	ketorolac	0	0.004916968	1	0.999498689431439
+Hypertension 	labetalol	0.8	2.54e-05	0.8	0.971858784474537
+Hypertension 	labetalol	0.4	0.003319617	0.9	0.802535407328769
+Convulsion 	lacosamide	1.5	0.018911456	0.625	0.751224390915506
+Diabetic neuropathy 	lacosamide	1.5	0.018911456	0.625	0.751224390915506
+Epilepsy 	lacosamide	1.5	0.018911456	0.625	0.751224390915506
+Bipolar disorder 	lamotrigine	1.71875	3.07e-05	0.5703125	0.566441509984543
+Bipolar disorder 	lamotrigine	0.875	1.27e-06	0.78125	0.553473885504681
+Bipolar disorder 	lamotrigine	1.625	7.23e-05	0.59375	0.159723968896025
+Epilepsy 	lamotrigine	1.71875	3.07e-05	0.5703125	0.566441509984543
+Epilepsy 	lamotrigine	0.875	1.27e-06	0.78125	0.553473885504681
+Epilepsy 	lamotrigine	1.625	7.23e-05	0.59375	0.159723968896025
+Solid tumour/cancer 	larotrectinib	0.333333333	0.000658742	0.91666666675	0.827624363017613
+Solid tumour/cancer 	larotrectinib	1	0.027295374	0.75	0.939653140975545
+Glaucoma/ocular hypertension 	latanoprost	0	0.017348172	1	0.999498689431439
+Open-angle glaucoma 	latanoprost	0	0.017348172	1	0.999498689431439
+Multiple sclerosis 	leflunomide	0.333333333	0.007433097	0.91666666675	0.998223773135608
+Arthritis 	leflunomide	0.333333333	0.007433097	0.91666666675	0.998223773135608
+Multiple myeloma 	lenalidomide	0.5	0.023242505	0.875	0.996659662454039
+Melanoma 	lenvatinib	1.2	0.028874258	0.7	0.886538021702445
+Melanoma 	lenvatinib	0.4	1.64e-05	0.9	0.802535407328769
+Hepatocellular carcinoma 	lenvatinib	1.2	0.028874258	0.7	0.886538021702445
+Hepatocellular carcinoma 	lenvatinib	0.4	1.64e-05	0.9	0.802535407328769
+Solid tumour/cancer 	lenvatinib	1.2	0.028874258	0.7	0.886538021702445
+Solid tumour/cancer 	lenvatinib	0.4	1.64e-05	0.9	0.802535407328769
+Ovarian cancer 	lenvatinib	1.2	0.028874258	0.7	0.886538021702445
+Ovarian cancer 	lenvatinib	0.4	1.64e-05	0.9	0.802535407328769
+Thrombocytopenia 	lepirudin	0	0.023296852	1	0.999498689431439
+Hormonally-responsive breast cancer 	letrozole	0	0.012819144	1	0.916996180685167
+Hormonally-responsive breast cancer 	letrozole	1	0.004058114	0.75	0.945098078077383
+Hypertension 	levamlodipine	0.25	0.003984832	0.9375	0.855352842489066
+Hypertension 	levamlodipine	1.75	0.01454488	0.5625	0.460431310598574
+Epilepsy 	levetiracetam	1	2.6e-05	0.75	0.945098078077383
+Fibromyalgia 	levetiracetam	1	2.6e-05	0.75	0.945098078077383
+Chronic open-angle glaucoma 	levobetaxolol	1	0.042410927	0.75	0.475573630947114
+Chronic open-angle glaucoma 	levobetaxolol	0	3.87e-05	1	0.916996180685167
+Chronic open-angle glaucoma 	levobetaxolol	1	0.001418066	0.75	0.939653140975545
+Open-angle glaucoma 	levobunolol	0.5	0.025658476	0.875	0.759915570510543
+Open-angle glaucoma 	levobunolol	1	0.040701925	0.75	0.475573630947114
+Open-angle glaucoma 	levobunolol	0	0.002697814	1	0.916996180685167
+Open-angle glaucoma 	levobunolol	1.5	0.023816021	0.625	0.661048189545015
+Parkinson disease 	levodopa	0.8	1.16e-08	0.8	0.599220125721511
+Parkinson disease 	levodopa	1.2	2.6e-06	0.7	0.886538021702445
+Parkinson disease 	levodopa	0	9.63e-08	1	0.916996180685167
+Fibromyalgia 	levomilnacipran	1	6.72e-06	0.75	0.910611085269981
+Fibromyalgia 	levomilnacipran	0.5	7.8e-07	0.875	0.759915570510543
+Fibromyalgia 	levomilnacipran	1	0.002980116	0.75	0.475573630947114
+Hypothyroidism 	levothyroxine	0.5	0.009061508	0.875	0.759915570510543
+Hypothyroidism 	levothyroxine	0.75	0.006440316	0.8125	0.976247630772842
+Type-2 diabetes 	linagliptin	0	0.004752629	1	0.999498689431439
+Infestations of lice and scabies 	lindane	1.25	0.013801613	0.6875	0.878194941649415
+Hypothyroidism 	liothyronine	0.333333333	0.002476499	0.91666666675	0.998223773135608
+Congestive heart failure 	liothyronine	0.333333333	0.002476499	0.91666666675	0.998223773135608
+Hypertension 	lisinopril	1.5	0.048753636	0.625	0.206233008902532
+Hypertension 	lisinopril	0.5	3.04e-07	0.875	0.759915570510543
+Hypertension 	lisinopril	1.5	0.011267798	0.625	0.661048189545015
+Hypertension 	lisinopril	0	0.00116541	1	0.916996180685167
+Parkinson disease 	lisuride	1.333333333	8.47e-07	0.66666666675	0.282698225791934
+Parkinson disease 	lisuride	0.4	1.18e-07	0.9	0.802535407328769
+Parkinson disease 	lisuride	1.466666667	2.02e-07	0.63333333325	0.757029462794277
+Fibrosis 	lisuride	1.333333333	8.47e-07	0.66666666675	0.282698225791934
+Fibrosis 	lisuride	0.4	1.18e-07	0.9	0.802535407328769
+Fibrosis 	lisuride	1.466666667	2.02e-07	0.63333333325	0.757029462794277
+Opioid dependence 	lofexidine	0.5	0.001994003	0.875	0.996659662454039
+Heroin and opiate withdrawal 	lofexidine	0.5	0.001994003	0.875	0.996659662454039
+Diarrhea 	loperamide	1.285714286	0.016326365	0.6785714285	0.864258438759897
+Allergy 	loratadine	1	0.005549783	0.75	0.945098078077383
+Obesity 	lorcaserin	0	0.004985535	1	0.916996180685167
+Obesity 	lorcaserin	1	0.004954394	0.75	0.945098078077383
+Drug abuse 	lorcaserin	0	0.004985535	1	0.916996180685167
+Drug abuse 	lorcaserin	1	0.004954394	0.75	0.945098078077383
+Migraine 	lornoxicam	0	0.002105695	1	0.999498689431439
+Hypertension 	losartan	0	0.000751149	1	0.998215649602825
+Hypertension 	losartan	0	0.000370198	1	0.916996180685167
+Schizophrenia 	loxapine	1.483870968	2.61e-09	0.629032258	0.212912065197101
+Schizophrenia 	loxapine	0.612903226	2.53e-07	0.8467741935	0.704737087536676
+Schizophrenia 	loxapine	1.612903226	2.46e-06	0.5967741935	0.653005822272531
+Knee osteoarthritis 	lumiracoxib	0	0.008456375	1	0.999498689431439
+Thrombocytopenia 	lusutrombopag	1	0.000778463	0.75	0.939653140975545
+Female infertility 	lutropin alfa	0	0.01740202	1	0.999498689431439
+Amnesia 	lypressin	1	6.4e-05	0.75	0.945098078077383
+Amnesia 	lypressin	1.333333333	0.001001849	0.66666666675	0.282698225791934
+Cardiovascular disease 	macitentan	0	0.000470587	1	0.999498689431439
+Pediculus capitis infestation 	malathion	0	0.006176884	1	0.999498689431439
+Major depressive disorder 	maprotiline	1.647058824	0.002712876	0.588235294	0.625865192232968
+Major depressive disorder 	maprotiline	0.529411765	4.74e-06	0.86764705875	0.74624548140621
+Major depressive disorder 	maprotiline	1.529411765	0.000772141	0.61764705875	0.194455871764802
+Human immunodeficiency virus infection 	maraviroc	0	0.011309699	1	0.999498689431439
+Chronic obstructive pulmonary disease 	maraviroc	0	0.011309699	1	0.999498689431439
+Prostate cancer 	masoprocol	1	0.036410409	0.75	0.939653140975545
+Obesity 	mazindol	0.75	4.34e-08	0.8125	0.628833714233804
+Obesity 	mazindol	0.75	8.95e-08	0.8125	0.628833714233804
+Obesity 	mazindol	1.5	0.002950901	0.625	0.661048189545015
+Obesity 	mazindol	0.5	0.003268106	0.875	0.759915570510543
+Worm infection 	mebendazole	1.5	0.002325987	0.625	0.661048189545015
+Essential hypertension 	mecamylamine	0.25	0.000162635	0.9375	0.998705144399657
+Growth failure 	mecasermin	0.25	0.000539176	0.9375	0.998705144399657
+Growth failure 	mecasermin	1	0.02663977	0.75	0.945098078077383
+Dizziness 	meclizine	0.5	4.31e-08	0.875	0.989912580974802
+Joint pain 	meclofenamic acid	0.6	0.015620167	0.85	0.995123544742407
+Ankylosing spondylitis 	meclofenamic acid	0.6	0.015620167	0.85	0.995123544742407
+Dysmenorrhea 	mefenamic acid	0	0.000525155	1	0.999498689431439
+Arthritis 	meloxicam	0	0.009423948	1	0.999498689431439
+Alzheimer disease 	memantine	1.5	1.36e-07	0.625	0.206233008902532
+Alzheimer disease 	memantine	1.625	8.74e-06	0.59375	0.643496298717733
+Alzheimer disease 	memantine	1.041666667	0.025696829	0.73958333325	0.449683396667951
+Vitamin K deficiency 	menadione	1.461538462	0.024317554	0.6346153845	0.222418197167071
+Vitamin K deficiency 	menadione	0.538461538	2.08e-05	0.8653846155	0.996136174715183
+Prostate cancer 	menadione	1.461538462	0.024317554	0.6346153845	0.222418197167071
+Prostate cancer 	menadione	0.538461538	2.08e-05	0.8653846155	0.996136174715183
+Female infertility 	menotropins	0	1.06e-06	1	0.999498689431439
+Gastrointestinal disease 	mepenzolate	0.5	0.032076841	0.875	0.996659662454039
+Peptic ulcer 	mepenzolate	0.5	0.032076841	0.875	0.996659662454039
+Pain 	meperidine	0.8125	0.014087107	0.796875	0.591692542858745
+Pain 	meperidine	1.375	0.00010373	0.65625	0.262061106154156
+Pain 	meperidine	1.5	0.00019566	0.625	0.735272017343177
+High blood pressure 	mephentermine	1.111111111	1e-05	0.72222222225	0.921212993401376
+High blood pressure 	mephentermine	0.333333333	2.87e-06	0.91666666675	0.827624363017613
+Anxiety disorder 	meprobamate	1.846153846	0.034742853	0.5384615385	0.475053509225162
+Malaria 	meprobamate	1.846153846	0.034742853	0.5384615385	0.475053509225162
+Allergy 	mepyramine	1	0.003466974	0.75	0.945098078077383
+Ulcerative colitis 	mesalazine	0.142857143	3.49e-06	0.96428571425	0.885448909205393
+Ulcerative colitis 	mesalazine	1.285714286	0.022352702	0.6785714285	0.853251817926061
+Ulcerative colitis 	mesalazine	1.142857143	0.007054132	0.71428571425	0.388190164697243
+Schizophrenia 	mesoridazine	0.5	0.000487046	0.875	0.759915570510543
+Schizophrenia 	mesoridazine	0	2.05e-07	1	0.916996180685167
+Schizophrenia 	mesoridazine	0	7.4e-10	1	0.997960746870246
+Hypotension 	metaraminol	1	0.023133954	0.75	0.945098078077383
+Hypotension 	metaraminol	0	0.012507031	1	0.916996180685167
+Dry cough 	methadone	1.214285714	5.45e-07	0.6964285715	0.890881247560786
+Dry cough 	methadone	0.428571429	1.25e-07	0.89285714275	0.790970967897522
+Dry cough 	methadone	1.642857143	0.029990491	0.58928571425	0.153822973184716
+Glaucoma/ocular hypertension 	methazolamide	1.25	0.000471296	0.6875	0.878194941649415
+Glaucoma/ocular hypertension 	methazolamide	0.75	0.032186078	0.8125	0.628833714233804
+Allergic rhinitis 	methdilazine	1	0.00035751	0.75	0.945098078077383
+Musculoskeletal disorder 	methocarbamol	0	8.06e-10	1	0.998215649602825
+Musculoskeletal disorder 	methocarbamol	0	0.015470857	1	0.916996180685167
+leukaemia 	methotrexate	1	0.032612526	0.75	0.945098078077383
+Solid tumour/cancer 	methotrexate	1	0.032612526	0.75	0.945098078077383
+Hypertension 	methoxamine	1	0.000114478	0.75	0.945098078077383
+Hypertension 	methoxamine	0.666666667	0.046895847	0.83333333325	0.676022002084612
+Nausea and vomiting 	methscopolamine bromide	0.333333333	0.003743958	0.91666666675	0.998223773135608
+Hypertension 	methyclothiazide	1.25	0.000161397	0.6875	0.878194941649415
+Hypertension 	methyclothiazide	0.75	0.042904372	0.8125	0.628833714233804
+Edema 	methyclothiazide	1.25	0.000161397	0.6875	0.878194941649415
+Edema 	methyclothiazide	0.75	0.042904372	0.8125	0.628833714233804
+Acne vulgaris 	methyl aminolevulinate	1	4.48e-06	0.75	0.910611085269981
+Hypertension 	methyldopa	1	7.81e-05	0.75	0.939653140975545
+Acquired methemoglobinemia 	methylene blue	1	0.003074425	0.75	0.945098078077383
+Acquired methemoglobinemia 	methylene blue	0.5	0.039296746	0.875	0.759915570510543
+Attention deficit hyperactivity disorder 	methylphenidate	1.333333333	0.002007977	0.66666666675	0.282698225791934
+Attention deficit hyperactivity disorder 	methylphenidate	1	0.000129501	0.75	0.939653140975545
+Traumatic brain injury 	methylphenidate	1.333333333	0.002007977	0.66666666675	0.282698225791934
+Traumatic brain injury 	methylphenidate	1	0.000129501	0.75	0.939653140975545
+Anxiety disorder 	methylphenobarbital	2.090909091	0.037065517	0.47727272725	0.21657228435201
+Anxiety disorder 	methylphenobarbital	1.545454545	0.000906464	0.61363636375	0.188250285217651
+Anxiety disorder 	methylphenobarbital	0.909090909	0.017668429	0.77272727275	0.532327195116185
+Insomnia 	methyprylon	1.846153846	0.025473036	0.5384615385	0.0985742211094202
+Insomnia 	methyprylon	2.230769231	0.046547494	0.44230769225	0.148277641669455
+Migraine 	methysergide	0.75	0.00804031	0.8125	0.628833714233804
+Migraine 	methysergide	1.5	0.005579908	0.625	0.206233008902532
+Migraine 	methysergide	1.625	0.030879803	0.59375	0.643496298717733
+Open-angle glaucoma 	metipranolol	0.5	0.00824911	0.875	0.759915570510543
+Open-angle glaucoma 	metipranolol	0	0.001514903	1	0.916996180685167
+Open-angle glaucoma 	metipranolol	1.5	0.010455593	0.625	0.661048189545015
+Open-angle glaucoma 	metipranolol	1	0.016878432	0.75	0.475573630947114
+Parkinson disease 	metixene	0.8	0.045298799	0.8	0.989632625584422
+Nausea 	metoclopramide	1.25	0.000333113	0.6875	0.326780372623774
+Nausea 	metoclopramide	1.5	0.005052573	0.625	0.735272017343177
+Nausea 	metoclopramide	0.5	0.005537194	0.875	0.759915570510543
+Hypertension 	metoprolol	1.5	0.048168153	0.625	0.661048189545015
+Hypertension 	metoprolol	1	0.008547583	0.75	0.475573630947114
+Hypertension 	metoprolol	0	0.007392647	1	0.916996180685167
+Hypertension 	metoprolol	0.5	0.019165147	0.875	0.759915570510543
+Diabetic complication 	metreleptin	0	0.000778463	1	0.999498689431439
+Pheochromocytoma 	metyrosine	1	0.011309699	0.75	0.939653140975545
+Pheochromocytoma 	metyrosine	1	0.034145871	0.75	0.475573630947114
+Ventricular tachycardia 	mexiletine	0.5	0.030316224	0.875	0.996659662454039
+Depression 	mianserin	1.434782609	2.03e-12	0.64130434775	0.776674250324608
+Depression 	mianserin	1.217391304	1.63e-12	0.695652174	0.344961414267416
+Depression 	mianserin	0.47826087	6.84e-09	0.8804347825	0.769690514213878
+Fungal infection 	miconazole	2	0.013453663	0.5	0.271864846529077
+Fungal infection 	miconazole	1.5	0.011582992	0.625	0.206233008902532
+Fungal infection 	miconazole	0.666666667	0.000246347	0.83333333325	0.676022002084612
+Orthostatic hypotension 	midodrine	1	0.000234884	0.75	0.945098078077383
+Acute myeloid leukaemia 	midostaurin	0.5	0.01224423	0.875	0.759915570510543
+Acute myeloid leukaemia 	midostaurin	1	0.017132907	0.75	0.939653140975545
+Chronic myelomonocytic leukaemia 	midostaurin	0.5	0.01224423	0.875	0.759915570510543
+Chronic myelomonocytic leukaemia 	midostaurin	1	0.017132907	0.75	0.939653140975545
+Colorectal cancer 	midostaurin	0.5	0.01224423	0.875	0.759915570510543
+Colorectal cancer 	midostaurin	1	0.017132907	0.75	0.939653140975545
+Systemic mastocytosis 	midostaurin	0.5	0.01224423	0.875	0.759915570510543
+Systemic mastocytosis 	midostaurin	1	0.017132907	0.75	0.939653140975545
+Solid tumour/cancer 	mifamurtide	0.5	0.005026772	0.875	0.996659662454039
+Cushing disease 	mifepristone	1	0.015931411	0.75	0.945098078077383
+Depression 	milnacipran	0.888888889	2.75e-10	0.77777777775	0.544877519066542
+Depression 	milnacipran	0.555555556	0.001677966	0.861111111	0.733670898791437
+Depression 	milnacipran	1.111111111	2.88e-07	0.72222222225	0.913908594518138
+Visceral leishmaniasis 	miltefosine	0	8.86e-05	1	0.998215649602825
+Visceral leishmaniasis 	miltefosine	0	0.001296123	1	0.916996180685167
+Leishmaniasis 	miltefosine	0	8.86e-05	1	0.998215649602825
+Leishmaniasis 	miltefosine	0	0.001296123	1	0.916996180685167
+Depression 	minaprine	1	7.82e-11	0.75	0.475573630947114
+Depression 	minaprine	0.111111111	1.19e-09	0.97222222225	0.893255917777285
+Depression 	minaprine	1.111111111	6.51e-12	0.72222222225	0.913908594518138
+Bacterial infection 	minocycline	1.285714286	0.042781467	0.6785714285	0.853251817926061
+Bacterial infection 	minocycline	1.142857143	0.029005886	0.71428571425	0.388190164697243
+Bacterial infection 	minocycline	0.285714286	5.45e-07	0.9285714285	0.843951868427611
+Hypertension 	minoxidil	1.333333333	0.003668153	0.66666666675	0.282698225791934
+Hypertension 	minoxidil	0.333333333	0.003432658	0.91666666675	0.998223773135608
+Overactive bladder 	mirabegron	0	1.64e-12	1	0.998215649602825
+Overactive bladder 	mirabegron	0	0.012819144	1	0.916996180685167
+Depression 	mirtazapine	0.5	5.02e-05	0.875	0.759915570510543
+Depression 	mirtazapine	1.625	0.024929313	0.59375	0.159723968896025
+Depression 	mirtazapine	1.25	1.93e-05	0.6875	0.878194941649415
+Medical abortion 	misoprostol	0	2.22e-05	1	0.999498689431439
+Anaesthesia 	mivacurium	0.5	0.004936753	0.875	0.996659662454039
+Skin imperfections 	moclobemide	0	0.000704907	1	0.999498689431439
+Skin imperfections 	moclobemide	1.5	0.01453463	0.625	0.206233008902532
+Depression 	moclobemide	0	0.000704907	1	0.999498689431439
+Depression 	moclobemide	1.5	0.01453463	0.625	0.206233008902532
+Narcolepsy 	modafinil	1	0.003668153	0.75	0.939653140975545
+Narcolepsy 	modafinil	0.5	3.86e-06	0.875	0.759915570510543
+Narcolepsy 	modafinil	0.5	0.038408144	0.875	0.759915570510543
+Hypertension 	moexipril	0.5	2.66e-09	0.875	0.989912580974802
+Schizophrenia 	molindone	0.25	0.001566501	0.9375	0.855352842489066
+Schizophrenia 	molindone	1	0.000220385	0.75	0.939653140975545
+Schizophrenia 	molindone	1.25	0.006059235	0.6875	0.326780372623774
+Hemophilia 	moroctocog alfa	1.727272727	0.000701111	0.56818181825	0.479146301042743
+Hemophilia 	moroctocog alfa	0.454545455	0.000369657	0.88636363625	0.997187918776537
+Erectile dysfunction 	moxisylyte	1.5	0.007969505	0.625	0.206233008902532
+Erectile dysfunction 	moxisylyte	0.5	0.003316047	0.875	0.996659662454039
+Alcohol dependence 	moxonidine	0.5	0.048181146	0.875	0.759915570510543
+Alcohol dependence 	moxonidine	1	0.001230243	0.75	0.939653140975545
+Organ transplant rejection 	muromonab	1.214285714	2.48e-19	0.6964285715	0.833775677941745
+Pain 	nabumetone	0	0.004082163	1	0.999498689431439
+Parkinson disease 	nadh	0.776119403	1.92e-11	0.80597014925	0.990523230114273
+High blood pressure 	nadolol	0.5	0.015800619	0.875	0.759915570510543
+High blood pressure 	nadolol	1	0.008828648	0.75	0.475573630947114
+High blood pressure 	nadolol	1.5	0.013228375	0.625	0.661048189545015
+High blood pressure 	nadolol	0	0.003981214	1	0.916996180685167
+Narcotic depression 	naloxone	0.571428571	0.023891778	0.85714285725	0.995622925786853
+Itching 	naphazoline	0	0.002915444	1	0.916996180685167
+Itching 	naphazoline	1	1.22e-06	0.75	0.939653140975545
+Hyperaemia 	naphazoline	0	0.002915444	1	0.916996180685167
+Hyperaemia 	naphazoline	1	1.22e-06	0.75	0.939653140975545
+Endometriosis 	naproxen	0	0.001672809	1	0.999498689431439
+Pain 	naproxen	0	0.001672809	1	0.999498689431439
+Osteoarthritis 	naproxen	0	0.001672809	1	0.999498689431439
+Diabetic complication 	nateglinide	0	0.006347713	1	0.999498689431439
+Hypertension 	nebivolol	1.333333333	0.048181146	0.66666666675	0.282698225791934
+Hypertension 	nebivolol	0.333333333	2.88e-05	0.91666666675	0.827624363017613
+Hypertension 	nebivolol	0	0.000187678	1	0.916996180685167
+Hypertension 	nebivolol	1.666666667	0.041699434	0.58333333325	0.529196411593648
+Major depressive disorder 	nefazodone	0.4	9.7e-07	0.9	0.802535407328769
+Major depressive disorder 	nefazodone	1.1	1.15e-08	0.725	0.413920064347205
+Major depressive disorder 	nefazodone	1	8.7e-16	0.75	0.939653140975545
+Myasthenia gravis 	neostigmine	0	0.023262262	1	0.999498689431439
+Osteoarthritis 	nepafenac	0	0.002222356	1	0.999498689431439
+Congestive heart failure 	nesiritide	1	0.001968271	0.75	0.945098078077383
+High blood pressure 	nicardipine	0.666666667	3.19e-05	0.83333333325	0.993726881956618
+Brain ischaemia 	nicergoline	0	0.016131929	1	0.916996180685167
+Brain ischaemia 	nicergoline	1	0.015712763	0.75	0.945098078077383
+Senile dementia 	nicergoline	0	0.016131929	1	0.916996180685167
+Senile dementia 	nicergoline	1	0.015712763	0.75	0.945098078077383
+Angina pectoris 	nicorandil	0	0.012171692	1	0.916996180685167
+Angina pectoris 	nicorandil	1	0.001317948	0.75	0.939653140975545
+Inflammatory skin condition 	nicotinamide	0.5	0.034580266	0.875	0.996659662454039
+Nicotine dependence 	nicotine	0.5	4.16e-06	0.875	0.996659662454039
+Nicotine dependence 	nicotine	1.6	0.000312627	0.6	0.168291655175903
+Non-small-cell lung cancer 	nimesulide	0	0.000862106	1	0.999498689431439
+Non-hodgkin lymphoma 	nimesulide	0	0.000862106	1	0.999498689431439
+Metastatic colorectal cancer 	nimesulide	0	0.000862106	1	0.999498689431439
+Cerebral vasospasm 	nimodipine	0.6	0.000255826	0.85	0.995123544742407
+Mesothelioma 	nintedanib	1.083333333	0.003659894	0.72916666675	0.921151135420886
+Mesothelioma 	nintedanib	0.5	1.67e-05	0.875	0.759915570510543
+Hypertension 	nisoldipine	0.6	0.006084065	0.85	0.995123544742407
+Epilepsy 	nitrazepam	2.1875	0.023556704	0.453125	0.167268210401379
+Epilepsy 	nitrazepam	1.6875	0.000134633	0.578125	0.139850367811517
+Insomnia 	nitrazepam	2.1875	0.023556704	0.453125	0.167268210401379
+Insomnia 	nitrazepam	1.6875	0.000134633	0.578125	0.139850367811517
+Diabetic foot ulcer 	nitroglycerin	1	0.0138285	0.75	0.945098078077383
+Angina pectoris 	nitroglycerin	1	0.0138285	0.75	0.945098078077383
+Hypertension 	nitroprusside	1	0.030316224	0.75	0.945098078077383
+Non-small-cell lung cancer 	nivolumab	1	0.010384933	0.75	0.939653140975545
+Melanoma 	nivolumab	1	0.010384933	0.75	0.939653140975545
+Sepsis 	norepinephrine	1.181818182	9.57e-08	0.7045454545	0.901393038424451
+Sepsis 	norepinephrine	0.454545455	4.87e-05	0.88636363625	0.780032031554293
+Depression 	nortriptyline	0.458333333	2.19e-08	0.88541666675	0.778402893763885
+Depression 	nortriptyline	1.333333333	4.46e-08	0.66666666675	0.282698225791934
+Depression 	nortriptyline	1.541666667	1.2e-05	0.61458333325	0.706383200416048
+Insomnia 	obeticholic acid	0	0.002281057	1	0.999498689431439
+Primary biliary cholangitis 	obeticholic acid	0	0.002281057	1	0.999498689431439
+Chronic lymphocytic leukaemia 	obinutuzumab	0	0.017409882	1	0.999498689431439
+Multiple sclerosis 	ocrelizumab	0	0.026739756	1	0.999498689431439
+Diffuse large B-cell lymphoma 	ocrelizumab	0	0.026739756	1	0.999498689431439
+Symptomatic vitreomacular adhesion 	ocriplasmin	1.333333333	0.01189741	0.66666666675	0.771890854627055
+Symptomatic vitreomacular adhesion 	ocriplasmin	0.666666667	0.014601422	0.83333333325	0.676022002084612
+Symptomatic vitreomacular adhesion 	ocriplasmin	0	0.001230243	1	0.916996180685167
+Acromegaly 	octreotide	1.333333333	0.004844358	0.66666666675	0.843611506693975
+Diffuse large B-cell lymphoma 	ofatumumab	0	0.01740202	1	0.999498689431439
+Rheumatoid arthritis 	ofatumumab	0	0.01740202	1	0.999498689431439
+Chronic lymphocytic leukaemia 	ofatumumab	0	0.01740202	1	0.999498689431439
+Schizophrenia 	olanzapine	0.757575758	7.75e-08	0.8106060605	0.624402544202095
+Schizophrenia 	olanzapine	1.787878788	0.003175192	0.553030303	0.112297976433573
+Schizophrenia 	olanzapine	1.484848485	2.49e-09	0.62878787875	0.760950586770556
+Non-small-cell lung cancer 	olaratumab	0	0.013955718	1	0.999498689431439
+Soft tissue sarcoma 	olaratumab	0	0.013955718	1	0.999498689431439
+Chronic obstructive pulmonary disease 	olodaterol	1	0.01684862	0.75	0.910611085269981
+Ulcerative colitis 	olsalazine	1.5	0.011554449	0.625	0.206233008902532
+Ulcerative colitis 	olsalazine	0.5	0.014556084	0.875	0.996659662454039
+Asthma 	omalizumab	1.5	0.019817239	0.625	0.735272017343177
+Chronic idiopathic urticaria 	omalizumab	1.5	0.019817239	0.625	0.735272017343177
+Parkinson disease 	opicapone	0	1.19e-14	1	0.996415052507829
+Parkinson disease 	opicapone	0	0.000253646	1	0.916996180685167
+Parkinson disease 	opicapone	0	0.001827226	1	0.916996180685167
+Parkinson disease 	opicapone	0	0.0138285	1	0.916996180685167
+Obesity 	orlistat	1.333333333	0.0266594	0.66666666675	0.282698225791934
+Obesity 	orlistat	0.333333333	0.004572805	0.91666666675	0.998223773135608
+Parkinson disease 	orphenadrine	1.571428571	0.02743806	0.60714285725	0.178527656590918
+Parkinson disease 	orphenadrine	1.285714286	0.000495989	0.6785714285	0.864258438759897
+Rheumatoid arthritis 	oxaprozin	0	0.00173908	1	0.999498689431439
+Anxiety disorder 	oxazepam	1.733333333	0.002497408	0.56666666675	0.572700816400868
+Epilepsy 	oxcarbazepine	1.6	0.001240805	0.6	0.680709788918494
+Tinea pedis 	oxiconazole	0	0.000778463	1	0.999498689431439
+Hypertension 	oxprenolol	0.333333333	9.03e-07	0.91666666675	0.827624363017613
+Hypertension 	oxprenolol	1.666666667	0.018331254	0.58333333325	0.529196411593648
+Hypertension 	oxprenolol	1.333333333	0.048816261	0.66666666675	0.282698225791934
+Hypertension 	oxprenolol	0	0.000563258	1	0.916996180685167
+Cough 	oxtriphylline	1.4	0.031340254	0.65	0.796783412541402
+Nasal congestion 	oxymetazoline	1.5	0.011664484	0.625	0.206233008902532
+Nasal congestion 	oxymetazoline	0.5	0.001512839	0.875	0.996659662454039
+Eye inflammation 	oxymetazoline	1.5	0.011664484	0.625	0.206233008902532
+Eye inflammation 	oxymetazoline	0.5	0.001512839	0.875	0.996659662454039
+Aplastic anemia 	oxymetholone	0	0.009561688	1	0.999498689431439
+Peptic ulcer 	oxyphencyclimine	0.333333333	0.006927026	0.91666666675	0.998223773135608
+Visceral spasms 	oxyphenonium	0	0.010651082	1	0.999498689431439
+Autism spectrum disorder 	oxytocin	0.5	1.87e-09	0.875	0.988674027190168
+Oral mucositis 	palifermin	1.833333333	0.046295275	0.54166666675	0.393140203983763
+Oral mucositis 	palifermin	0.166666667	5.13e-07	0.95833333325	0.879271554806123
+Schizophrenia 	paliperidone	1.466666667	1.28e-05	0.63333333325	0.757029462794277
+Schizophrenia 	paliperidone	0.4	7.03e-07	0.9	0.802535407328769
+Schizophrenia 	paliperidone	1.4	7.76e-06	0.65	0.250155464708731
+Respiratory syncytial virus infection 	palivizumab	0.888888889	3.21e-19	0.77777777775	0.93634379937994
+Anaesthesia 	pancuronium	0.666666667	0.049550092	0.83333333325	0.993726881956618
+Spasm 	papaverine	1.5	0.034175991	0.625	0.751224390915506
+Hypertension 	pargyline	0	0.009744206	1	0.999498689431439
+Hypertension 	pargyline	1.5	0.020514731	0.625	0.206233008902532
+Skin imperfections 	pargyline	0	0.009744206	1	0.999498689431439
+Skin imperfections 	pargyline	1.5	0.020514731	0.625	0.206233008902532
+Muscular dystrophy 	pargyline	0	0.009744206	1	0.999498689431439
+Muscular dystrophy 	pargyline	1.5	0.020514731	0.625	0.206233008902532
+Hyperparathyroidism 	paricalcitol	0	0.008929131	1	0.999498689431439
+Depression 	paroxetine	1.771428571	0.002072269	0.55714285725	0.52141831215704
+Depression 	paroxetine	0.714285714	4.49e-07	0.8214285715	0.649422656627897
+Depression 	paroxetine	1.514285714	2.75e-08	0.6214285715	0.200447857197342
+Cushing disease 	pasireotide	1.5	0.007057017	0.625	0.751224390915506
+Neovascular age-related macular degeneration 	pegaptanib	0	0.019817239	1	0.999498689431439
+Malignant solid tumour 	pegfilgrastim	0	0.001418066	1	0.999498689431439
+Malignant solid tumour 	pegfilgrastim	1	0.02681328	0.75	0.939653140975545
+Hairy cell leukaemia 	peginterferon alfa-2a	1	0.03407843	0.75	0.939653140975545
+Hepatitis C virus infection 	peginterferon alfa-2b	1	0.021091256	0.75	0.939653140975545
+Acromegaly 	pegvisomant	0	0.002325987	1	0.999498689431439
+Melanoma 	pembrolizumab	1	2.43e-05	0.75	0.939653140975545
+Hypertension 	penbutolol	0.5	0.017090136	0.875	0.996659662454039
+Fungal infection 	pentamidine	1	0.002325987	0.75	0.939653140975545
+Fungal infection 	pentamidine	0	0.010384933	1	0.916996180685167
+Pain 	pentazocine	1.333333333	0.025435415	0.66666666675	0.831480882514626
+Insomnia 	pentobarbital	0.92	0.002245203	0.77	0.525531944688211
+Insomnia 	pentobarbital	1.4	7.31e-10	0.65	0.810501261545562
+Insomnia 	pentobarbital	1.76	0.008634888	0.56	0.119435856218064
+Hypotension 	pentolinium	0.5	0.037547176	0.875	0.996659662454039
+Interstitial cystitis 	pentosan polysulfate	0.333333333	0.003141812	0.91666666675	0.998223773135608
+Painful bladder syndrome 	pentosan polysulfate	0.333333333	0.003141812	0.91666666675	0.998223773135608
+Hairy cell leukaemia 	pentostatin	1	0.010876121	0.75	0.939653140975545
+Intermittent claudication 	pentoxifylline	1.666666667	0.029665055	0.58333333325	0.146233886424169
+Intermittent claudication 	pentoxifylline	1.666666667	0.040851018	0.58333333325	0.609905807393488
+Parkinson disease 	pergolide	1.647058824	0.00126037	0.588235294	0.152460696976449
+Parkinson disease 	pergolide	1.235294118	8.47e-11	0.6911764705	0.883565902582604
+Parkinson disease 	pergolide	0.470588235	3.12e-07	0.88235294125	0.773073174664516
+Angina pectoris 	perhexiline	1.333333333	0.012183755	0.66666666675	0.831480882514626
+Angina pectoris 	perhexiline	1.333333333	0.042953336	0.66666666675	0.282698225791934
+Hypertension 	perindopril	1.5	0.003410393	0.625	0.661048189545015
+Hypertension 	perindopril	0.5	0.041412723	0.875	0.759915570510543
+Hypertension 	perindopril	1	0.00186632	0.75	0.475573630947114
+Sarcoptes scabiei infection 	permethrin	0.666666667	0.001230684	0.83333333325	0.982121775956082
+Schizophrenia 	perphenazine	0.333333333	0.026914406	0.91666666675	0.827624363017613
+Schizophrenia 	perphenazine	0.333333333	8.41e-08	0.91666666675	0.993592688003182
+Schizophrenia 	perphenazine	1	0.000755368	0.75	0.475573630947114
+Neurofibromatosis type 1 	pexidartinib	1	0.002559013	0.75	0.939653140975545
+Epilepsy 	phenacemide	1	1.61e-05	0.75	0.939653140975545
+Epilepsy 	phenacemide	1	0.000323168	0.75	0.475573630947114
+Pain 	phenazopyridine	1	0.0113831	0.75	0.475573630947114
+Pain 	phenazopyridine	1	1.61e-05	0.75	0.939653140975545
+Obesity 	phendimetrazine	1.333333333	0.015914598	0.66666666675	0.843611506693975
+Common cold 	phenindamine	1	0.007565675	0.75	0.945098078077383
+Pulmonary embolism 	phenindione	1	3.42e-06	0.75	0.910611085269981
+Pulmonary embolism 	phenindione	0	0.006830513	1	0.916996180685167
+Coagulation defect 	phenindione	1	3.42e-06	0.75	0.910611085269981
+Coagulation defect 	phenindione	0	0.006830513	1	0.916996180685167
+Hay fever 	pheniramine	1	0.000359585	0.75	0.945098078077383
+Obesity 	phenmetrazine	1	0.000207094	0.75	0.475573630947114
+Obesity 	phenmetrazine	0.5	1.31e-10	0.875	0.988674027190168
+Seizure disorder 	phenobarbital	0.538461538	2.38e-05	0.8653846155	0.741937430208702
+Seizure disorder 	phenobarbital	1.538461538	0.016246782	0.6153846155	0.190936397049312
+Seizure disorder 	phenobarbital	1	3.56e-10	0.75	0.945098078077383
+Malignant essential hypertension 	phenoxybenzamine	0.5	0.002349536	0.875	0.759915570510543
+Malignant essential hypertension 	phenoxybenzamine	1.25	0.001152719	0.6875	0.878194941649415
+Thrombosis 	phenprocoumon	0	0.000778463	1	0.916996180685167
+Thrombosis 	phenprocoumon	1	6.63e-06	0.75	0.910611085269981
+Obesity 	phentermine	1.166666667	2.17e-06	0.70833333325	0.374150926439399
+Obesity 	phentermine	0.166666667	1.27e-06	0.95833333325	0.879271554806123
+Obesity 	phentermine	1.666666667	0.000169626	0.58333333325	0.529196411593648
+Obesity 	phentermine	1.166666667	1.24e-05	0.70833333325	0.905982971656374
+Dermal necrosis 	phentolamine	1.25	0.000298679	0.6875	0.878194941649415
+Dermal necrosis 	phentolamine	0.5	0.030472044	0.875	0.759915570510543
+Chronic pain 	phenylbutazone	0	0.000252548	1	0.999498689431439
+Ophthalmic graves disease 	phenylephrine	1	4.38e-07	0.75	0.945098078077383
+Epilepsy 	phenytoin	1	0.009296349	0.75	0.475573630947114
+Epilepsy 	phenytoin	1.7	0.000337606	0.575	0.136133371311785
+Epilepsy 	phenytoin	1.833333333	0.011807327	0.54166666675	0.468117044403685
+Glaucoma/ocular hypertension 	pilocarpine	0.5	0.006207891	0.875	0.996659662454039
+Parkinson disease 	pimavanserin	0.5	0.000642308	0.875	0.759915570510543
+Parkinson disease 	pimavanserin	0	1.59e-06	1	0.916996180685167
+Parkinson disease 	pimavanserin	0	1.95e-10	1	0.997960746870246
+Schizophrenia 	pimozide	0.5	2.15e-07	0.875	0.759915570510543
+Schizophrenia 	pimozide	0.5	0.042410927	0.875	0.759915570510543
+Schizophrenia 	pimozide	1	0.005490983	0.75	0.939653140975545
+Hypertension 	pindolol	0.4	0.002007803	0.9	0.802535407328769
+Hypertension 	pindolol	1	0.000153442	0.75	0.945098078077383
+Obesity 	pioglitazone	0	7.31e-08	1	0.999498689431439
+Type-2 diabetes 	pioglitazone	0	7.31e-08	1	0.999498689431439
+Diabetic complication 	pioglitazone	0	7.31e-08	1	0.999498689431439
+Enterobiasis 	piperazine	1	0.000370198	0.75	0.945098078077383
+Ascariasis 	piperazine	1	0.000370198	0.75	0.945098078077383
+Schizophrenia 	pipotiazine	1.25	0.018990157	0.6875	0.326780372623774
+Schizophrenia 	pipotiazine	0.5	2.01e-10	0.875	0.988674027190168
+Schizophrenia 	pipotiazine	0.25	0.000468041	0.9375	0.855352842489066
+Asthma 	pirbuterol	0	0.001378237	1	0.916996180685167
+Asthma 	pirbuterol	1	0.0138285	0.75	0.475573630947114
+Asthma 	pirbuterol	1.5	0.013228375	0.625	0.661048189545015
+Asthma 	pirbuterol	0.5	0.036546184	0.875	0.759915570510543
+Peptic ulcer 	pirenzepine	0	0.02491327	1	0.999498689431439
+Pain 	piroxicam	0	0.000759617	1	0.999498689431439
+Schizophrenia 	pitolisant	1	0.002767067	0.75	0.939653140975545
+Systemic sclerosis 	pomalidomide	0.333333333	0.013672087	0.91666666675	0.998223773135608
+Acute lymphoblastic leukaemia 	ponatinib	0.4	4.65e-10	0.9	0.802535407328769
+Acute lymphoblastic leukaemia 	ponatinib	1.133333333	0.011938681	0.71666666675	0.90768617542838
+Non-small-cell lung cancer 	porfimer sodium	1	1.38e-05	0.75	0.910611085269981
+Non-small-cell lung cancer 	porfimer sodium	1	0.015998014	0.75	0.475573630947114
+Cardiac arrhythmias 	practolol	0	0.008547583	1	0.916996180685167
+Cardiac arrhythmias 	practolol	1	0.023296852	0.75	0.939653140975545
+Peripheral T-cell lymphoma 	pralatrexate	0.5	0.046785402	0.875	0.759915570510543
+Peripheral T-cell lymphoma 	pralatrexate	1	0.040567949	0.75	0.945098078077383
+Breast cancer 	pralatrexate	0.5	0.046785402	0.875	0.759915570510543
+Breast cancer 	pralatrexate	1	0.040567949	0.75	0.945098078077383
+Parkinson disease 	pramipexole	1.2	0.00194825	0.7	0.354850999878246
+Parkinson disease 	pramipexole	1.2	0.001030712	0.7	0.886538021702445
+Parkinson disease 	pramipexole	0.2	4e-05	0.95	0.870142204938429
+Cardiovascular disease 	prasterone	0.862068966	0.014927983	0.7844827585	0.561448861715623
+Cardiovascular disease 	prasterone	1.413793103	3.95e-06	0.64655172425	0.243743147676325
+Cardiovascular disease 	prasterone	1.689655172	0.027025386	0.577586207	0.590892991177108
+Chronic obstructive pulmonary disease 	prasterone	0.862068966	0.014927983	0.7844827585	0.561448861715623
+Chronic obstructive pulmonary disease 	prasterone	1.413793103	3.95e-06	0.64655172425	0.243743147676325
+Chronic obstructive pulmonary disease 	prasterone	1.689655172	0.027025386	0.577586207	0.590892991177108
+Acute coronary syndrome 	prasugrel	0	0.005224605	1	0.999498689431439
+Hypercholesterolaemia 	pravastatin	0.5	0.019968885	0.875	0.996659662454039
+Anxiety disorder 	prazepam	1.733333333	0.004812187	0.56666666675	0.572700816400868
+Congestive heart failure 	prazosin	1.333333333	0.001263881	0.66666666675	0.843611506693975
+Congestive heart failure 	prazosin	0.5	0.001538465	0.875	0.759915570510543
+Benign prostatic hyperplasia 	prazosin	1.333333333	0.001263881	0.66666666675	0.843611506693975
+Benign prostatic hyperplasia 	prazosin	0.5	0.001538465	0.875	0.759915570510543
+Hypertension 	prazosin	1.333333333	0.001263881	0.66666666675	0.843611506693975
+Hypertension 	prazosin	0.5	0.001538465	0.875	0.759915570510543
+Pain 	prilocaine	1	0.02681328	0.75	0.939653140975545
+Epilepsy 	primidone	1.647058824	5.88e-05	0.588235294	0.644102621853535
+Ventricular arrhythmias 	procainamide	1	0.006139957	0.75	0.939653140975545
+Anaesthesia 	procaine	0.666666667	1.2e-05	0.83333333325	0.993726881956618
+Anaesthesia 	procaine	1.666666667	0.004349945	0.58333333325	0.146233886424169
+Hodgkin lymphoma 	procarbazine	0	0.000963847	1	0.999498689431439
+Hodgkin lymphoma 	procarbazine	1.5	0.01297776	0.625	0.206233008902532
+Asthma 	procaterol	1	0.006830513	0.75	0.910611085269981
+Nausea 	prochlorperazine	1.25	3.49e-06	0.6875	0.878194941649415
+Nausea 	prochlorperazine	0.5	0.001809006	0.875	0.759915570510543
+Nausea 	prochlorperazine	1.625	0.023394447	0.59375	0.159723968896025
+Parkinson disease 	procyclidine	0.5	0.007541252	0.875	0.996659662454039
+Sepsis 	proflavine	0	0.042410927	1	0.999498689431439
+Premature labour 	progesterone	0.5	0.032543108	0.875	0.996659662454039
+Contraception 	progesterone	0.5	0.032543108	0.875	0.996659662454039
+Malaria 	proguanil	0	1.81e-05	1	0.998215649602825
+Psychomotor agitation 	promazine	0.5	7.69e-06	0.875	0.759915570510543
+Psychomotor agitation 	promazine	1.714285714	0.007628807	0.5714285715	0.570217539296702
+Psychomotor agitation 	promazine	1.428571429	2.43e-05	0.64285714275	0.23699746879252
+Nausea 	promethazine	0.727272727	0.005400925	0.81818181825	0.641995299809939
+Nausea 	promethazine	1.454545455	0.000430295	0.63636363625	0.77960882989344
+Tachyarrhythmias 	propafenone	0.5	0.043174046	0.875	0.759915570510543
+Tachyarrhythmias 	propafenone	1	0.000970445	0.75	0.939653140975545
+Tachyarrhythmias 	propafenone	1.75	0.043173515	0.5625	0.12209024541556
+Stomach ulcer 	propantheline	0	0.019405347	1	0.999498689431439
+Excessive sweating 	propantheline	0	0.019405347	1	0.999498689431439
+Insomnia 	propiomazine	0.5	3.43e-05	0.875	0.759915570510543
+Insomnia 	propiomazine	1.428571429	0.000162277	0.64285714275	0.23699746879252
+Insomnia 	propiomazine	1.714285714	0.011890758	0.5714285715	0.570217539296702
+Urinary incontinence 	propiverine	0.571428571	0.000928394	0.85714285725	0.995622925786853
+Anaesthesia 	propofol	1.8	0.008021968	0.55	0.515195496152686
+Pain 	propoxycaine	1.571428571	0.013175859	0.60714285725	0.701928415156842
+Migraine 	propranolol	1	5.99e-05	0.75	0.945098078077383
+Migraine 	propranolol	0.4	0.001837122	0.9	0.802535407328769
+Obesity 	propylhexedrine	1	0.001163293	0.75	0.945098078077383
+Depression 	protriptyline	1	3.08e-06	0.75	0.910611085269981
+Depression 	protriptyline	0.5	1.66e-09	0.875	0.759915570510543
+Depression 	protriptyline	1	0.006204134	0.75	0.475573630947114
+Nasal congestion 	pseudoephedrine	0.571428571	4.72e-05	0.85714285725	0.725845478306619
+Nasal congestion 	pseudoephedrine	1	1.12e-06	0.75	0.475573630947114
+Nasal congestion 	pseudoephedrine	1.095238095	1.35e-07	0.72619047625	0.918118006479624
+Worm infection 	pyrantel	0	0.02285926	1	0.999498689431439
+Myasthenia gravis 	pyridostigmine	0	4.58e-05	1	0.999498689431439
+Malaria 	pyrimethamine	0.5	9.64e-05	0.875	0.989912580974802
+Insomnia 	quazepam	1.733333333	0.00146782	0.56666666675	0.572700816400868
+Schizophrenia 	quetiapine	1.769230769	0.014600497	0.55769230775	0.523308876279621
+Schizophrenia 	quetiapine	1.538461538	4.88e-07	0.6153846155	0.190936397049312
+Schizophrenia 	quetiapine	0.576923077	7.53e-09	0.85576923075	0.723103583468192
+Hyperprolactinaemia 	quinagolide	0.666666667	5.01e-08	0.83333333325	0.980055283476762
+Hyperprolactinaemia 	quinagolide	0	0.000133694	1	0.916996180685167
+Hyperprolactinaemia 	quinagolide	0.666666667	3.96e-08	0.83333333325	0.676022002084612
+Hypertension 	quinapril	0	0.024100319	1	0.916996180685167
+Hypertension 	quinapril	1	0.004752629	0.75	0.475573630947114
+Hypertension 	quinapril	1	0.001559133	0.75	0.910611085269981
+Hypertension 	quinapril	0	3.64e-05	1	0.916996180685167
+Congestive heart failure 	ramipril	1.5	0.026534379	0.625	0.206233008902532
+Congestive heart failure 	ramipril	0.5	0.017082539	0.875	0.759915570510543
+Congestive heart failure 	ramipril	1	0.000106532	0.75	0.945098078077383
+Gastric adenocarcinoma 	ramucirumab	0	0.000370198	1	0.999498689431439
+Hereditary hemorrhagic telangiectasia 	ranibizumab	0	0.0138285	1	0.999498689431439
+Chronic/stable angina 	ranolazine	1.6	6.53e-05	0.6	0.680709788918494
+Chronic/stable angina 	ranolazine	0.96	0.029068389	0.76	0.500554170937533
+Paroxysmal atrial fibrillation 	ranolazine	1.6	6.53e-05	0.6	0.680709788918494
+Paroxysmal atrial fibrillation 	ranolazine	0.96	0.029068389	0.76	0.500554170937533
+Parkinson disease 	rasagiline	1	0.029151431	0.75	0.939653140975545
+Parkinson disease 	rasagiline	0	0.011765028	1	0.916996180685167
+Skin cancer 	rasagiline	1	0.029151431	0.75	0.939653140975545
+Skin cancer 	rasagiline	0	0.011765028	1	0.916996180685167
+Skin imperfections 	rasagiline	1	0.029151431	0.75	0.939653140975545
+Skin imperfections 	rasagiline	0	0.011765028	1	0.916996180685167
+Depression 	reboxetine	1	0.0020376	0.75	0.939653140975545
+Radionuclide imaging 	regadenoson	1	0.006744007	0.75	0.939653140975545
+Radionuclide imaging 	regadenoson	1	0.01684862	0.75	0.475573630947114
+Metastatic colorectal cancer 	regorafenib	0.388888889	4.67e-06	0.90277777775	0.806900452905362
+Metastatic colorectal cancer 	regorafenib	0.944444444	1.77e-05	0.763888889	0.949642707738058
+Diabetic complication 	repaglinide	0	0.003003792	1	0.999498689431439
+Hypertension 	rescinnamine	0	5.99e-09	1	0.916996180685167
+Hypertension 	rescinnamine	1	0.000970445	0.75	0.910611085269981
+Hypertension 	rescinnamine	0	0.018045761	1	0.916996180685167
+Hypertension 	rescinnamine	1	0.014932392	0.75	0.475573630947114
+Hypertension 	reserpine	1	0.018014234	0.75	0.945098078077383
+Heart attack 	reteplase	0.25	0.000100439	0.9375	0.855352842489066
+Heart attack 	reteplase	0.75	0.002884914	0.8125	0.976247630772842
+Chronic obstructive pulmonary disease 	revefenacin	0.8	0.01699138	0.8	0.989632625584422
+Hepatitis C virus infection 	ribavirin	0.5	0.000651867	0.875	0.996659662454039
+Bacterial infection 	rifaximin	0	0.000370198	1	0.999498689431439
+Hypertension 	rilmenidine	0	7.85e-06	1	0.997960746870246
+Hypertension 	rilmenidine	0	0.011554449	1	0.916996180685167
+Acute gout flare 	rilonacept	0	0.000298084	1	0.999498689431439
+Arthritis 	rilonacept	0	0.000298084	1	0.999498689431439
+Human immunodeficiency virus infection 	rilpivirine	0	0.011309699	1	0.999498689431439
+Pain 	rilpivirine	0	0.011309699	1	0.999498689431439
+Amyotrophic lateral sclerosis 	riluzole	1.5	0.044843011	0.625	0.735272017343177
+Schizophrenia 	risperidone	0.4	2.66e-06	0.9	0.802535407328769
+Schizophrenia 	risperidone	1.466666667	1.45e-06	0.63333333325	0.757029462794277
+Schizophrenia 	risperidone	1.4	7.77e-06	0.65	0.250155464708731
+Premature labour 	ritodrine	1	0.005026772	0.75	0.910611085269981
+Human immunodeficiency virus infection 	ritonavir	0	0.006830513	1	0.999498689431439
+Haematological malignancy 	rituximab	0	0.023262262	1	0.999498689431439
+Non-hodgkin lymphoma 	rituximab	0	0.023262262	1	0.999498689431439
+Deep vein thrombosis 	rivaroxaban	0	0.011195598	1	0.999498689431439
+Alzheimer disease 	rivastigmine	0	1.2e-05	1	0.999498689431439
+Muscle spasm 	rocuronium	0.666666667	0.017090136	0.83333333325	0.993726881956618
+Osteoarthritis 	rofecoxib	0	0.000249074	1	0.999498689431439
+Asthma 	roflumilast	1.5	0.027662698	0.625	0.751224390915506
+Type-2 diabetes 	roflumilast	1.5	0.027662698	0.625	0.751224390915506
+Myelodysplastic syndrome 	romiplostim	1	0.006502383	0.75	0.939653140975545
+Multiple myeloma 	romiplostim	1	0.006502383	0.75	0.939653140975545
+Thrombocytopenia 	romiplostim	1	0.006502383	0.75	0.939653140975545
+Parkinson disease 	ropinirole	0.333333333	6.33e-06	0.91666666675	0.827624363017613
+Parkinson disease 	ropinirole	1.666666667	0.027561195	0.58333333325	0.146233886424169
+Parkinson disease 	ropinirole	1.222222222	1.55e-06	0.6944444445	0.888166295431888
+Seizure disorder 	rufinamide	1	0.04908269	0.75	0.945098078077383
+Pediatric lennox-gastaut syndrome 	rufinamide	1	0.04908269	0.75	0.945098078077383
+Epilepsy 	rufinamide	1	0.04908269	0.75	0.945098078077383
+Parkinson disease 	safinamide	0	0.021056093	1	0.999498689431439
+Idiopathic parkinson disease 	safinamide	0	0.021056093	1	0.999498689431439
+Acute asthma 	salbutamol	0.333333333	2.32e-05	0.91666666675	0.994327988993813
+Acute asthma 	salbutamol	1.666666667	0.023223232	0.58333333325	0.529196411593648
+Acute asthma 	salbutamol	0	0.000565833	1	0.916996180685167
+Chronic obstructive pulmonary disease 	salmeterol	1.666666667	0.035379458	0.58333333325	0.529196411593648
+Chronic obstructive pulmonary disease 	salmeterol	0	0.000139083	1	0.916996180685167
+Chronic obstructive pulmonary disease 	salmeterol	1.333333333	0.040055913	0.66666666675	0.282698225791934
+Chronic obstructive pulmonary disease 	salmeterol	0.333333333	3.87e-05	0.91666666675	0.827624363017613
+Osteoporosis 	salmon calcitonin	0	0.01872673	1	0.916996180685167
+Osteoporosis 	salmon calcitonin	1	0.02681328	0.75	0.945098078077383
+Rheumatoid arthritis 	salsalate	0	0.000273353	1	0.999498689431439
+Rheumatoid arthritis 	sarilumab	1.428571429	2.67e-07	0.64285714275	0.71179812317996
+Type-2 diabetes 	saxagliptin	0	3.87e-05	1	0.999498689431439
+Nausea 	scopolamine	0.75	0.00351638	0.8125	0.99141072500421
+Addictive disorder 	scopolamine	0.75	0.00351638	0.8125	0.99141072500421
+Intractable insomnia 	secobarbital	0.823529412	0.001753053	0.794117647	0.585014524585476
+Intractable insomnia 	secobarbital	1.294117647	3.52e-09	0.67647058825	0.860789819747103
+Intractable insomnia 	secobarbital	1.647058824	0.002360094	0.588235294	0.152460696976449
+Rheumatoid arthritis 	secukinumab	0	0.020102841	1	0.999498689431439
+Plaque psoriasis 	secukinumab	0	0.020102841	1	0.999498689431439
+Atopic dermatitis 	secukinumab	0	0.020102841	1	0.999498689431439
+Psoriatic arthritis 	secukinumab	0	0.020102841	1	0.999498689431439
+Alopecia 	secukinumab	0	0.020102841	1	0.999498689431439
+Multiple sclerosis 	secukinumab	0	0.020102841	1	0.999498689431439
+Dry eye disease 	secukinumab	0	0.020102841	1	0.999498689431439
+Type-1 diabetes 	secukinumab	0	0.020102841	1	0.999498689431439
+Skin imperfections 	selegiline	1.5	0.03003023	0.625	0.206233008902532
+Skin imperfections 	selegiline	0	0.002550881	1	0.999498689431439
+Major depressive disorder 	selegiline	1.5	0.03003023	0.625	0.206233008902532
+Major depressive disorder 	selegiline	0	0.002550881	1	0.999498689431439
+Pulmonary arterial hypertension 	selexipag	0	0.014520343	1	0.999498689431439
+Pediatric growth disorder 	sermorelin	0	0.01733094	1	0.999498689431439
+Depression 	sertraline	0.6	7.14e-14	0.85	0.984085674323206
+Depression 	sertraline	0.4	0.001579362	0.9	0.802535407328769
+Depression 	sertraline	1.6	0.000785227	0.6	0.168291655175903
+Depression 	sertraline	1	1.05e-05	0.75	0.475573630947114
+Anaesthesia 	sevoflurane	1.777777778	0.010023863	0.5555555555	0.534485197790855
+Obesity 	sibutramine	0.666666667	5.46e-08	0.83333333325	0.676022002084612
+Obesity 	sibutramine	0.333333333	0.007573988	0.91666666675	0.827624363017613
+Obesity 	sibutramine	0.333333333	5.5e-13	0.91666666675	0.827624363017613
+Obesity 	sibutramine	1.333333333	0.000234884	0.66666666675	0.771890854627055
+Benign prostatic hyperplasia 	silodosin	1	0.00052867	0.75	0.945098078077383
+Benign prostatic hyperplasia 	silodosin	0.666666667	0.046093511	0.83333333325	0.676022002084612
+Anemia 	siltuximab	0	1.11e-06	1	0.998215649602825
+Anemia 	siltuximab	0	0.026378826	1	0.916996180685167
+Dutch elm disease 	sirolimus	0.333333333	0.003985452	0.91666666675	0.998223773135608
+Dutch elm disease 	sirolimus	1	0.039847608	0.75	0.945098078077383
+Organ transplant rejection 	sirolimus	0.333333333	0.003985452	0.91666666675	0.998223773135608
+Organ transplant rejection 	sirolimus	1	0.039847608	0.75	0.945098078077383
+Type-2 diabetes 	sitagliptin	0	0.000370198	1	0.999498689431439
+Hormone deficiency 	somatrem	0	1.81e-05	1	0.999498689431439
+Hepatocellular carcinoma 	sorafenib	0.8	0.000131245	0.8	0.968779061072677
+Hepatocellular carcinoma 	sorafenib	0.6	0.011184218	0.85	0.711404818907248
+Myelodysplastic syndrome 	sorafenib	0.8	0.000131245	0.8	0.968779061072677
+Myelodysplastic syndrome 	sorafenib	0.6	0.011184218	0.85	0.711404818907248
+Renal cell carcinoma 	sorafenib	0.8	0.000131245	0.8	0.968779061072677
+Renal cell carcinoma 	sorafenib	0.6	0.011184218	0.85	0.711404818907248
+Sinus rhythm disorder 	sotalol	1	0.001514903	0.75	0.939653140975545
+Sinus rhythm disorder 	sotalol	0.333333333	0.008448413	0.91666666675	0.827624363017613
+Sinus rhythm disorder 	sotalol	0.666666667	0.00598439	0.83333333325	0.676022002084612
+Bupicavaine toxicity 	soybean oil	0	7.22e-06	1	0.999498689431439
+Hypertension 	spirapril	1	0.001385596	0.75	0.475573630947114
+Hypertension 	spirapril	0	0.020018182	1	0.916996180685167
+Hypertension 	spirapril	1	0.002616678	0.75	0.910611085269981
+Hypertension 	spirapril	0	2.61e-14	1	0.916996180685167
+Congestive heart failure 	spironolactone	0.833333333	1.06e-05	0.79166666675	0.988249510046994
+Bacterial infection 	streptomycin	1	4.1e-05	0.75	0.939653140975545
+Spasm 	succinylcholine	0.333333333	0.00395973	0.91666666675	0.998223773135608
+Acne vulgaris 	sucralfate	0.8	1.85e-05	0.8	0.971858784474537
+Acne vulgaris 	sucralfate	0.2	4.75e-08	0.95	0.870142204938429
+Infection of P. falciparum 	sulfamethoxazole	0	0.030499728	1	0.999498689431439
+Bacterial infection 	sulfamethoxazole	0	0.030499728	1	0.999498689431439
+Rheumatoid arthritis 	sulfasalazine	0.4	4.47e-05	0.9	0.997713004352496
+Rheumatoid arthritis 	sulindac	0.428571429	0.000541687	0.89285714275	0.997451470293365
+Tinnitus 	sulodexide	0.5	0.041699434	0.875	0.996659662454039
+Schizophrenia 	sulpiride	1.5	0.037057389	0.625	0.206233008902532
+Schizophrenia 	sulpiride	1	0.000452777	0.75	0.945098078077383
+Schizophrenia 	sulpiride	0.5	0.005170212	0.875	0.759915570510543
+Gastrointestinal cancer 	sunitinib	0.625	0.046816927	0.84375	0.698405543162004
+Gastrointestinal cancer 	sunitinib	1	0.000309119	0.75	0.939653140975545
+Miosis 	suprofen	0	0.005476351	1	0.999498689431439
+Insomnia 	suvorexant	0	0.000394802	1	0.999498689431439
+Alzheimer disease 	tacrine	0.666666667	0.03159405	0.83333333325	0.993726881956618
+Glaucoma/ocular hypertension 	tafluprost	0	0.024273764	1	0.999498689431439
+Irritability 	talbutal	1.647058824	0.000590854	0.588235294	0.152460696976449
+Irritability 	talbutal	2.176470588	0.041985849	0.455882353	0.172409432264823
+Breast cancer 	tamoxifen	0.588235294	0.047293096	0.8529411765	0.995335694737563
+Benign prostatic hyperplasia 	tamsulosin	1	9.22e-05	0.75	0.945098078077383
+Solid tumour/cancer 	tasonermin	0.5	0.024929313	0.875	0.759915570510543
+Solid tumour/cancer 	tasonermin	0.5	0.035983706	0.875	0.988674027190168
+Type-2 diabetes 	taurocholic acid	0.5	0.041533929	0.875	0.996659662454039
+Psoriasis vulgaris 	tazarotene	1	0.030450194	0.75	0.945098078077383
+Psoriasis vulgaris 	tazarotene	0	7.55e-07	1	0.916996180685167
+Solid tumour/cancer 	tegafur	0	0.006830513	1	0.999498689431439
+Irritable bowel syndrome 	tegaserod	0.5	0.006813464	0.875	0.759915570510543
+Irritable bowel syndrome 	tegaserod	0.75	2.91e-11	0.8125	0.976247630772842
+Irritable bowel syndrome 	tegaserod	1.5	0.002243054	0.625	0.206233008902532
+Hypertension 	telmisartan	0	7.45e-05	1	0.998215649602825
+Hypertension 	telmisartan	0	0.000249074	1	0.916996180685167
+Carcinoid syndrome diarrhea 	telotristat ethyl	1	0.000622934	0.75	0.945098078077383
+Carcinoid syndrome diarrhea 	telotristat ethyl	0	0.000276032	1	0.916996180685167
+Carcinoid syndrome 	telotristat ethyl	1	0.000622934	0.75	0.945098078077383
+Carcinoid syndrome 	telotristat ethyl	0	0.000276032	1	0.916996180685167
+Insomnia 	temazepam	1.75	0.006729052	0.5625	0.12209024541556
+Insomnia 	temazepam	2.1875	0.042118287	0.453125	0.167268210401379
+Renal cell carcinoma 	temsirolimus	0	0.01684862	1	0.999498689431439
+Myocardial infarction 	tenecteplase	1.727272727	0.000373392	0.56818181825	0.479146301042743
+Myocardial infarction 	tenecteplase	0.909090909	5.19e-05	0.77272727275	0.532327195116185
+Myocardial infarction 	tenecteplase	0.545454545	0.00098224	0.86363636375	0.738575985415231
+Rheumatoid arthritis 	tenoxicam	0	0.001349898	1	0.999498689431439
+Benign prostatic hyperplasia 	terazosin	0.8	0.037878421	0.8	0.599220125721511
+Benign prostatic hyperplasia 	terazosin	1.2	0.000359126	0.7	0.895622553226265
+Asthma 	terbutaline	1.333333333	0.045573297	0.66666666675	0.282698225791934
+Asthma 	terbutaline	0.333333333	4.79e-07	0.91666666675	0.827624363017613
+Asthma 	terbutaline	0	0.000408748	1	0.916996180685167
+Asthma 	terbutaline	1.666666667	0.014834136	0.58333333325	0.529196411593648
+Osteogenesis imperfecta 	teriparatide	0	0.009462018	1	0.999498689431439
+Hypertension 	terlipressin	1.333333333	0.00143353	0.66666666675	0.282698225791934
+Hypertension 	terlipressin	1	6.21e-05	0.75	0.945098078077383
+HIV-associated lipodystrophy 	tesamorelin	0	0.005392425	1	0.999498689431439
+Breast cancer 	testolactone	0	0.027293082	1	0.916996180685167
+Breast cancer 	testolactone	1	0.000947249	0.75	0.945098078077383
+Male hormonal deficiency 	testosterone	0	0.003674786	1	0.999498689431439
+Hormone deficiency 	testosterone	0	0.003674786	1	0.999498689431439
+Osteoporosis 	testosterone	0	0.003674786	1	0.999498689431439
+Hypogonadism 	testosterone undecanoate	0	0.008031494	1	0.999498689431439
+Huntington disease 	tetrabenazine	0.5	1.56e-08	0.875	0.989912580974802
+Huntington disease 	tetrabenazine	1	0.003108337	0.75	0.475573630947114
+Hyperkinetic movement disorder 	tetrabenazine	0.5	1.56e-08	0.875	0.989912580974802
+Hyperkinetic movement disorder 	tetrabenazine	1	0.003108337	0.75	0.475573630947114
+Spinal anesthesia 	tetracaine	1.444444444	0.003304639	0.638888889	0.785591129354012
+Pain 	tetracaine	1.444444444	0.003304639	0.638888889	0.785591129354012
+Bacterial infection 	tetracycline	0.5	0.00732795	0.875	0.988674027190168
+Bacterial infection 	tetracycline	1.5	0.006670002	0.625	0.206233008902532
+Multiple myeloma 	thalidomide	0.428571429	0.004564635	0.89285714275	0.997451470293365
+Anaesthesia 	thiamylal	0.666666667	0.045840207	0.83333333325	0.993726881956618
+Nausea 	thiethylperazine	0.666666667	1.34e-08	0.83333333325	0.980055283476762
+Nausea 	thiethylperazine	0	1.97e-06	1	0.916996180685167
+Anaesthesia 	thiopental	1.666666667	0.002441042	0.58333333325	0.628306219637768
+Anaesthesia 	thiopental	1	0.017829147	0.75	0.475573630947114
+Schizophrenia 	thioridazine	1	3.77e-06	0.75	0.475573630947114
+Schizophrenia 	thioridazine	0.333333333	6.69e-05	0.91666666675	0.827624363017613
+Schizophrenia 	thioridazine	0.833333333	9.73e-13	0.79166666675	0.965109376415907
+Schizophrenia 	thiothixene	0	4.45e-05	1	0.916996180685167
+Schizophrenia 	thiothixene	0	4.44e-17	1	0.997960746870246
+Schizophrenia 	thiothixene	1	0.00100666	0.75	0.475573630947114
+Thyroid cancer 	thyrotropin alfa	1	0.046615177	0.75	0.945098078077383
+Anxiety disorder 	tiagabine	1	0.006339494	0.75	0.939653140975545
+Anxiety disorder 	tiagabine	1	0.001717592	0.75	0.475573630947114
+Epilepsy 	tiagabine	1	0.006339494	0.75	0.939653140975545
+Epilepsy 	tiagabine	1	0.001717592	0.75	0.475573630947114
+Pain 	tiaprofenic acid	0	0.007507673	1	0.999498689431439
+Stroke 	ticlopidine	0	0.004505991	1	0.999498689431439
+High blood pressure 	timolol	0.5	0.018309194	0.875	0.759915570510543
+High blood pressure 	timolol	0	0.002057416	1	0.916996180685167
+High blood pressure 	timolol	1	0.030316224	0.75	0.475573630947114
+High blood pressure 	timolol	1.5	0.01453463	0.625	0.661048189545015
+Chronic obstructive pulmonary disease 	tiotropium	0.8	0.01821079	0.8	0.989632625584422
+Acute coronary syndrome 	tirofiban	0.5	0.000996272	0.875	0.989912580974802
+Acute coronary syndrome 	tirofiban	0.5	0.047813736	0.875	0.759915570510543
+Spasm 	tizanidine	0.571428571	0.003521488	0.85714285725	0.995622925786853
+Spasm 	tizanidine	1.571428571	0.009618783	0.60714285725	0.178527656590918
+Ventricular arrhythmias 	tocainide	1	0.042410927	0.75	0.939653140975545
+Rheumatoid arthritis 	tocilizumab	1	0.01684862	0.75	0.945098078077383
+Rheumatoid arthritis 	tocilizumab	0	0.002595716	1	0.916996180685167
+Juvenile idiopathic arthritis 	tocilizumab	1	0.01684862	0.75	0.945098078077383
+Juvenile idiopathic arthritis 	tocilizumab	0	0.002595716	1	0.916996180685167
+Vitamin E deficiency 	tocofersolan	0	0.006502383	1	0.916996180685167
+Vitamin E deficiency 	tocofersolan	0	3.96e-05	1	0.998215649602825
+Diabetic complication 	tolazamide	0	0.002897268	1	0.999498689431439
+Pulmonary hypertension 	tolazoline	0.666666667	0.01323411	0.83333333325	0.993726881956618
+Pulmonary hypertension 	tolazoline	1.666666667	0.036489358	0.58333333325	0.146233886424169
+Non-insulin dependent diabetes 	tolbutamide	1.5	0.019392058	0.625	0.751224390915506
+Parkinson disease 	tolcapone	0	1.21e-05	1	0.916996180685167
+Parkinson disease 	tolcapone	0	3.12e-07	1	0.996415052507829
+Parkinson disease 	tolcapone	0	0.006133114	1	0.916996180685167
+Parkinson disease 	tolcapone	0	0.000423244	1	0.916996180685167
+Rheumatoid arthritis 	tolmetin	0	0.001010394	1	0.999498689431439
+Overactive bladder 	tolterodine	0.8	0.023296852	0.8	0.989632625584422
+Hyponatraemia 	tolvaptan	1	0.001700965	0.75	0.475573630947114
+Hyponatraemia 	tolvaptan	1	2.59e-05	0.75	0.939653140975545
+Heart failure 	tolvaptan	1	0.001700965	0.75	0.475573630947114
+Heart failure 	tolvaptan	1	2.59e-05	0.75	0.939653140975545
+Epilepsy 	topiramate	1.730769231	0.017621222	0.56730769225	0.574883728985869
+Alcohol dependence 	topiramate	1.730769231	0.017621222	0.56730769225	0.574883728985869
+Non-hodgkin lymphoma 	tositumomab	1	5.34e-20	0.75	0.910611085269981
+Pain 	tramadol	0.590909091	4.1e-06	0.85227272725	0.716048399149876
+Pain 	tramadol	1.545454545	2.06e-05	0.61363636375	0.7036672850782
+Pain 	tramadol	1.363636364	1.23e-06	0.659090909	0.267592015277234
+Melanoma 	trametinib	0	0.001091437	1	0.999498689431439
+Hypertension 	trandolapril	0	0.026534379	1	0.916996180685167
+Hypertension 	trandolapril	1	0.001385596	0.75	0.475573630947114
+Hypertension 	trandolapril	0	3.44e-06	1	0.916996180685167
+Hypertension 	trandolapril	1	0.001818001	0.75	0.910611085269981
+Major depressive disorder 	tranylcypromine	0	0.000610578	1	0.999498689431439
+Major depressive disorder 	tranylcypromine	1.5	0.024392307	0.625	0.206233008902532
+Prostate cancer 	tranylcypromine	0	0.000610578	1	0.999498689431439
+Prostate cancer 	tranylcypromine	1.5	0.024392307	0.625	0.206233008902532
+Breast cancer 	trastuzumab	1.083333333	6.6e-22	0.72916666675	0.88550167441359
+Colorectal cancer 	trastuzumab deruxtecan	1.5	0.01924802	0.625	0.661048189545015
+Open-angle glaucoma 	travoprost	0	0.016518772	1	0.999498689431439
+Depression 	trazodone	1.142857143	8.84e-12	0.71428571425	0.904897745913712
+Depression 	trazodone	1.142857143	1.94e-06	0.71428571425	0.388190164697243
+Depression 	trazodone	0.285714286	0.000198501	0.9285714285	0.843951868427611
+Pulmonary arterial hypertension 	treprostinil	0	1.83e-06	1	0.999498689431439
+Edema 	triamterene	0.75	1.71e-05	0.8125	0.976247630772842
+Edema 	triamterene	1.25	0.001178101	0.6875	0.326780372623774
+Congestive heart failure 	triamterene	0.75	1.71e-05	0.8125	0.976247630772842
+Congestive heart failure 	triamterene	1.25	0.001178101	0.6875	0.326780372623774
+Hypertension 	triamterene	0.75	1.71e-05	0.8125	0.976247630772842
+Hypertension 	triamterene	1.25	0.001178101	0.6875	0.326780372623774
+Insomnia 	triazolam	2.1875	0.017246869	0.453125	0.167268210401379
+Insomnia 	triazolam	1.75	0.001533544	0.5625	0.12209024541556
+Hypertension 	trichlormethiazide	1.2	0.002910333	0.7	0.895622553226265
+Bacterial infection 	triclosan	0.8	3.96e-05	0.8	0.971858784474537
+Trypanosomiasis 	triclosan	0.8	3.96e-05	0.8	0.971858784474537
+Infection of P. falciparum 	triclosan	0.8	3.96e-05	0.8	0.971858784474537
+Acne vulgaris 	trifarotene	0	1.89e-05	1	0.999498689431439
+Schizophrenia 	trifluoperazine	0.5	0.00506004	0.875	0.759915570510543
+Schizophrenia 	trifluoperazine	1.333333333	0.004477027	0.66666666675	0.831480882514626
+Psychotic disorder 	triflupromazine	1.2	5.92e-05	0.7	0.354850999878246
+Psychotic disorder 	triflupromazine	1.2	0.000103919	0.7	0.886538021702445
+Psychotic disorder 	triflupromazine	0.2	8.82e-06	0.95	0.870142204938429
+Virus infection 	trifluridine	0	0.019968885	1	0.999498689431439
+Parkinson disease 	trihexyphenidyl	0.8	0.012022188	0.8	0.989632625584422
+Dystonia 	trihexyphenidyl	0.8	0.012022188	0.8	0.989632625584422
+Obesity 	trihexyphenidyl	0.8	0.012022188	0.8	0.989632625584422
+Irritable bowel syndrome 	trimebutine	0.75	4.67e-05	0.8125	0.99141072500421
+Urinary tract infection 	trimethoprim	1	0.029151431	0.75	0.945098078077383
+Urinary tract infection 	trimethoprim	0.5	0.032631866	0.875	0.759915570510543
+Toxoplasmosis 	trimetrexate	0	8.94e-05	1	0.998215649602825
+Major depressive disorder 	trimipramine	1.458333333	1.44e-10	0.63541666675	0.762275039149934
+Major depressive disorder 	trimipramine	1.25	4.37e-10	0.6875	0.326780372623774
+Major depressive disorder 	trimipramine	0.458333333	7.78e-09	0.88541666675	0.778402893763885
+Hypersensitivity 	tripelennamine	1	0.001385596	0.75	0.945098078077383
+Hay fever 	triprolidine	1	0.002281057	0.75	0.945098078077383
+Diabetic complication 	troglitazone	1.222222222	0.040636832	0.6944444445	0.888166295431888
+Diabetic complication 	troglitazone	0.555555556	0.007234334	0.861111111	0.733670898791437
+Pain 	trolamine salicylate	0	0.002727597	1	0.999498689431439
+Bacterial infection 	troleandomycin	0	0.001418066	1	0.999498689431439
+Mydriasis 	tropicamide	0.5	0.007674517	0.875	0.996659662454039
+Spasm 	trospium	0	0.01483018	1	0.999498689431439
+Overactive bladder 	trospium	0	0.01483018	1	0.999498689431439
+Smoking dependence 	tubocurarine	0.5	0.00194825	0.875	0.996659662454039
+Anaesthesia 	tubocurarine	0.5	0.00194825	0.875	0.996659662454039
+Haemophilia A 	turoctocog alfa	1	0.008315298	0.75	0.945098078077383
+Haemophilia A 	turoctocog alfa	0.333333333	0.002582012	0.91666666675	0.827624363017613
+Cystic fibrosis 	tyloxapol	0	0.016708873	1	0.916996180685167
+Cystic fibrosis 	tyloxapol	0	0.000164531	1	0.998215649602825
+Chronic obstructive pulmonary disease 	umeclidinium	0.8	0.019058497	0.8	0.989632625584422
+Female infertility 	urofollitropin	0	0.003466974	1	0.999498689431439
+Myocardial infarction 	urokinase	0.8	3.67e-07	0.8	0.971858784474537
+Myocardial infarction 	urokinase	0.5	8.43e-05	0.875	0.759915570510543
+Malaria 	ustekinumab	0.5	0.044161663	0.875	0.996659662454039
+Plaque psoriasis 	ustekinumab	0.5	0.044161663	0.875	0.996659662454039
+Psoriasis vulgaris 	ustekinumab	0.5	0.044161663	0.875	0.996659662454039
+Inflammatory bowel disease 	ustekinumab	0.5	0.044161663	0.875	0.996659662454039
+Osteoarthritis 	valdecoxib	0.666666667	0.048528211	0.83333333325	0.993726881956618
+Hypertension 	valsartan	0	0.000778463	1	0.916996180685167
+Hypertension 	valsartan	0	0.000210167	1	0.998215649602825
+Solid tumour/cancer 	vandetanib	0.2	3.92e-06	0.95	0.998928908063831
+Smoking dependence 	varenicline	0	2.16e-06	1	0.999498689431439
+Smoking dependence 	varenicline	1.5	0.006830513	0.625	0.206233008902532
+Enuresis 	vasopressin	1.333333333	0.003059102	0.66666666675	0.282698225791934
+Enuresis 	vasopressin	1	2.42e-05	0.75	0.945098078077383
+Polyuria 	vasopressin	1.333333333	0.003059102	0.66666666675	0.282698225791934
+Polyuria 	vasopressin	1	2.42e-05	0.75	0.945098078077383
+Diabetes insipidus 	vasopressin	1.333333333	0.003059102	0.66666666675	0.282698225791934
+Diabetes insipidus 	vasopressin	1	2.42e-05	0.75	0.945098078077383
+Metabolic disorder 	velaglucerase alfa	0	0.001091437	1	0.997960746870246
+Metabolic disorder 	velaglucerase alfa	0	0.002318004	1	0.916996180685167
+Metabolic disorder 	velaglucerase alfa	0	0.002281057	1	0.916996180685167
+Melanoma 	vemurafenib	0	0.005623217	1	0.997960746870246
+Chronic lymphocytic leukaemia 	venetoclax	0	0.01758743	1	0.997960746870246
+Chronic lymphocytic leukaemia 	venetoclax	0	0.006432791	1	0.916996180685167
+Acute myeloid leukaemia 	venetoclax	0	0.01758743	1	0.997960746870246
+Acute myeloid leukaemia 	venetoclax	0	0.006432791	1	0.916996180685167
+Depression 	venlafaxine	0.333333333	0.00397108	0.91666666675	0.827624363017613
+Depression 	venlafaxine	0.666666667	1.14e-05	0.83333333325	0.676022002084612
+Depression 	venlafaxine	1.333333333	8.78e-05	0.66666666675	0.771890854627055
+Depression 	venlafaxine	0.333333333	1.06e-11	0.91666666675	0.827624363017613
+Hypertension 	verapamil	0.545454545	0.000425665	0.86363636375	0.738575985415231
+Hypertension 	verapamil	1.272727273	0.000415871	0.68181818175	0.869475488837739
+Chronic obstructive pulmonary disease 	vilanterol	1	0.001418066	0.75	0.910611085269981
+Major depressive disorder 	vilazodone	1	7.21e-07	0.75	0.910611085269981
+Major depressive disorder 	vilazodone	1	0.000454726	0.75	0.475573630947114
+Major depressive disorder 	vilazodone	1	0.004864683	0.75	0.475573630947114
+Type-2 diabetes 	vildagliptin	0	7.67e-09	1	0.999498689431439
+Major depressive disorder 	viloxazine	1	0.004058114	0.75	0.939653140975545
+Solid tumour/cancer 	vinblastine	1.166666667	0.00732795	0.70833333325	0.905982971656374
+Basal cell carcinoma 	vismodegib	1	0.034338783	0.75	0.945098078077383
+Primitive neuroectodermal tumour medulloblastoma 	vismodegib	1	0.034338783	0.75	0.945098078077383
+Night blindness 	vitamin a	2.176470588	0.029706352	0.455882353	0.172409432264823
+Kinetoplastids 	vitamin a	2.176470588	0.029706352	0.455882353	0.172409432264823
+Major depressive disorder 	vortioxetine	1.285714286	0.000117282	0.6785714285	0.307449773209786
+Major depressive disorder 	vortioxetine	1.857142857	0.008102768	0.53571428575	0.37452496976556
+Major depressive disorder 	vortioxetine	0.571428571	0.004787503	0.85714285725	0.725845478306619
+Mood disorder 	vortioxetine	1.285714286	0.000117282	0.6785714285	0.307449773209786
+Mood disorder 	vortioxetine	1.857142857	0.008102768	0.53571428575	0.37452496976556
+Mood disorder 	vortioxetine	0.571428571	0.004787503	0.85714285725	0.725845478306619
+Atrial fibrillation 	warfarin	0	0.000850416	1	0.916996180685167
+Atrial fibrillation 	warfarin	1.5	9.26e-06	0.625	0.661048189545015
+Allergic rhinitis 	xylometazoline	0.5	0.003175532	0.875	0.996659662454039
+Allergic rhinitis 	xylometazoline	1.5	0.008648442	0.625	0.206233008902532
+Erectile dysfunction 	yohimbine	1.705882353	0.006591445	0.57352941175	0.577302906946993
+Erectile dysfunction 	yohimbine	1.470588235	0.000248122	0.63235294125	0.218529923780644
+Erectile dysfunction 	yohimbine	0.647058824	0.000168917	0.838235294	0.686664136031207
+Insomnia 	zaleplon	0.5	0.044378397	0.875	0.996659662454039
+Asthma 	zileuton	0	0.019392058	1	0.916996180685167
+Asthma 	zileuton	1	0.034338783	0.75	0.939653140975545
+Wilson disease 	zinc acetate	1.939130435	2.33e-06	0.51521739125	0.313473815697932
+Wilson disease 	zinc acetate	1.426086957	8.45e-05	0.64347826075	0.238122468546814
+Wilson disease 	zinc acetate	0.686956522	5.97e-16	0.8282608695	0.664814819814221
+Common cold 	zinc chloride	1.939130435	9.13e-07	0.51521739125	0.313473815697932
+Common cold 	zinc chloride	0.686956522	8.36e-15	0.8282608695	0.664814819814221
+Common cold 	zinc chloride	1.426086957	4.84e-05	0.64347826075	0.238122468546814
+Schizophrenia 	ziprasidone	1.72	0.005229695	0.57	0.56538281823489
+Schizophrenia 	ziprasidone	0.56	1.93e-09	0.86	0.731494181998516
+Schizophrenia 	ziprasidone	1.56	0.000218291	0.61	0.182756367224305
+Epilepsy 	zonisamide	1.72	0.000206098	0.57	0.58401918027825
+Anxiety disorder 	zotepine	0.125	6.54e-09	0.96875	0.889899669963022
+Anxiety disorder 	zotepine	0.75	5.13e-13	0.8125	0.97359222316186
+Anxiety disorder 	zotepine	1.125	2.39e-05	0.71875	0.398844189393359
+Schizophrenia 	zuclopenthixol	1	4.77e-08	0.75	0.475573630947114
+Schizophrenia 	zuclopenthixol	0.142857143	2.89e-08	0.96428571425	0.885448909205393
+Schizophrenia 	zuclopenthixol	0.857142857	1.5e-12	0.78571428575	0.962237128755666
