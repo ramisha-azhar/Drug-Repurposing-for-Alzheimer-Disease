@@ -1,6 +1,6 @@
 options(stringsAsFactors = F)
 
-setwd("C:/Users/ramis/OneDrive/Desktop/BIOINFORMETICS 2/Drug_Repurposing/code/TDD")
+setwd("C:/Users/ramis/OneDrive/Desktop/BIOINFORMETICS 2/Drug-Repurposing-for-Alzheimer-Disease/code/TDD")
 
 known <- read.table("TTD_association.txt", sep = "\t", header = T, check.names = F, quote = "")
 colnames(known) <- c("TTD_association","drug")
